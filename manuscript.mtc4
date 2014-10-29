@@ -1,0 +1,46 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.1}Introduction}{\reset@font\mtcSfont 62}{section.3.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.2}\IeC {\'E}tat de l'art}{\reset@font\mtcSfont 62}{section.3.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.2.1}Densit\IeC {\'e} d'informations}{\reset@font\mtcSSfont 63}{subsection.3.2.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.2.1.1}Densit\IeC {\'e} de mesure:}{\reset@font\mtcSSSfont 63}{subsubsection.3.2.1.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.2.1.2}Comparaison selon les capteurs:}{\reset@font\mtcSSSfont 64}{subsubsection.3.2.1.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.2.1.3}Quelques remarques:}{\reset@font\mtcSSSfont 65}{subsubsection.3.2.1.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.2.2}Algorithmes \FB@og \IeC {\'e}pars\FB@fg {}}{\reset@font\mtcSSfont 66}{subsection.3.2.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.2.2.1}S\IeC {\'e}lection des points d'int\IeC {\'e}r\IeC {\^e}t:}{\reset@font\mtcSSSfont 66}{subsubsection.3.2.2.1}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Harris:\\}{\reset@font\mtcPfont 67}{section*.24}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Shi et Tomasi : "Good Features To Track"\\}{\reset@font\mtcPfont 68}{section*.25}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \emph {SIFT} (Scale Invariant Feature Transform):\\}{\reset@font\mtcPfont 68}{section*.26}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \emph {SURF} (Speeded Up Robust Feature):\\}{\reset@font\mtcPfont 69}{section*.28}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \emph {FAST} (Features from Accelerated Segment Test):\\}{\reset@font\mtcPfont 70}{section*.29}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.2.2.2}Suivi de points}{\reset@font\mtcSSSfont 71}{subsubsection.3.2.2.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Par re-d\IeC {\'e}tection de points d'int\IeC {\'e}r\IeC {\^e}t:\\}{\reset@font\mtcPfont 71}{section*.31}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Par optimisation it\IeC {\'e}rative:\\}{\reset@font\mtcPfont 72}{section*.32}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.2.3}Algorithmes denses}{\reset@font\mtcSSfont 72}{subsection.3.2.3}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \emph {Horn-Schunk}:\\}{\reset@font\mtcPfont 73}{section*.33}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \emph {Tenseur d'orientation}:\\}{\reset@font\mtcPfont 74}{section*.34}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \emph {Graph Cut}:\\}{\reset@font\mtcPfont 74}{section*.36}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.3}Algorithme propos\IeC {\'e}}{\reset@font\mtcSfont 75}{section.3.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.3.1}Processus g\IeC {\'e}n\IeC {\'e}ral : D\IeC {\'e}tection et maintien d'un ensemble de points d'int\IeC {\'e}r\IeC {\^e}t}{\reset@font\mtcSSfont 75}{subsection.3.3.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.3.2}Choix d'un algorithme de suivi de points}{\reset@font\mtcSSfont 76}{subsection.3.3.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.3.3}Suivi redondant sur une paire st\IeC {\'e}r\IeC {\'e}o}{\reset@font\mtcSSfont 77}{subsection.3.3.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.3.3.1}Principe}{\reset@font\mtcSSSfont 77}{subsubsection.3.3.3.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.3.3.2}D\IeC {\'e}tails de la m\IeC {\'e}thode}{\reset@font\mtcSSSfont 78}{subsubsection.3.3.3.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.3.4}S\IeC {\'e}lection de nouveaux points}{\reset@font\mtcSSfont 79}{subsection.3.3.4}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.3.4.1}Principe}{\reset@font\mtcSSSfont 79}{subsubsection.3.3.4.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.3.4.2}Int\IeC {\'e}r\IeC {\^e}t de l'utilisation de masques}{\reset@font\mtcSSSfont 79}{subsubsection.3.3.4.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.3.4.3}M\IeC {\'e}canisme de s\IeC {\'e}lection pr\IeC {\'e}f\IeC {\'e}rentielle des nouveaux points}{\reset@font\mtcSSSfont 80}{subsubsection.3.3.4.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.4}Impl\IeC {\'e}mentation et \IeC {\'e}valuation}{\reset@font\mtcSfont 81}{section.3.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.4.1}D\IeC {\'e}tection de points d'int\IeC {\'e}r\IeC {\^e}t}{\reset@font\mtcSSfont 81}{subsection.3.4.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.4.1.1}Comparaison: temps de calcul}{\reset@font\mtcSSSfont 83}{subsubsection.3.4.1.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.4.1.2}Comparaison: qualit\IeC {\'e}}{\reset@font\mtcSSSfont 83}{subsubsection.3.4.1.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Perte des points lors du suivi\\}{\reset@font\mtcPfont 83}{section*.41}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Uniformit\IeC {\'e}\\}{\reset@font\mtcPfont 84}{section*.43}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Choix du d\IeC {\'e}tecteur:\\}{\reset@font\mtcPfont 86}{section*.46}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.4.2}Suivi de points}{\reset@font\mtcSSfont 87}{subsection.3.4.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.4.2.1}Impl\IeC {\'e}mentation OpenCV}{\reset@font\mtcSSSfont 87}{subsubsection.3.4.2.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.4.2.2}Pourquoi parall\IeC {\'e}liser ?}{\reset@font\mtcSSSfont 88}{subsubsection.3.4.2.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Consid\IeC {\'e}rations g\IeC {\'e}n\IeC {\'e}rales:\\}{\reset@font\mtcPfont 88}{section*.47}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Application \IeC {\`a} notre cas:\\}{\reset@font\mtcPfont 88}{section*.48}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.4.2.3}Impl\IeC {\'e}mentation GPU}{\reset@font\mtcSSSfont 89}{subsubsection.3.4.2.3}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Description de notre impl\IeC {\'e}mentation et discussion\\}{\reset@font\mtcPfont 91}{section*.49}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.4.2.4}Comparaison : CPU/GPU}{\reset@font\mtcSSSfont 91}{subsubsection.3.4.2.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.5}Conclusion}{\reset@font\mtcSfont 94}{section.3.5}}

@@ -1,0 +1,57 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.1}Introduction}{\reset@font\mtcSfont 96}{section.4.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.2}\IeC {\'E}tat de l'art}{\reset@font\mtcSfont 97}{section.4.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2.1}Odom\IeC {\'e}trie visuelle}{\reset@font\mtcSSfont 97}{subsection.4.2.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.2.1.1}M\IeC {\'e}thodes mono-cam\IeC {\'e}ra}{\reset@font\mtcSSSfont 98}{subsubsection.4.2.1.1}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Approches classiques:\\}{\reset@font\mtcPfont 98}{section*.53}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Approches globales:\\}{\reset@font\mtcPfont 99}{section*.54}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.2.1.2}M\IeC {\'e}thodes multi-cam\IeC {\'e}ras}{\reset@font\mtcSSSfont 100}{subsubsection.4.2.1.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Configuration des cam\IeC {\'e}ras inconnue:\\}{\reset@font\mtcPfont 100}{section*.55}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Configuration des cam\IeC {\'e}ras connue au pr\IeC {\'e}alable:\\}{\reset@font\mtcPfont 100}{section*.56}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Remarques sur une r\IeC {\'e}solution lin\IeC {\'e}aire adapt\IeC {\'e}e \IeC {\`a} la st\IeC {\'e}r\IeC {\'e}ovision:\\}{\reset@font\mtcPfont 102}{section*.57}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.2.1.3}Exploitation de capteurs tiers pour l'estimation de l'\textit {ego-motion}}{\reset@font\mtcSSSfont 103}{subsubsection.4.2.1.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2.2}G\IeC {\'e}n\IeC {\'e}ration de l'environnement \IeC {\`a} partir d'observations successives}{\reset@font\mtcSSfont 104}{subsection.4.2.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Approches r\IeC {\'e}cursives:\\}{\reset@font\mtcPfont 104}{section*.59}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Approches par optimisation:\\}{\reset@font\mtcPfont 105}{section*.60}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.3}Filtrage}{\reset@font\mtcSfont 106}{section.4.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.1}Filtre de Kalman \IeC {\'e}tendu}{\reset@font\mtcSSfont 106}{subsection.4.3.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.1.1}Introduction:}{\reset@font\mtcSSSfont 106}{subsubsection.4.3.1.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.1.2}Propagation:}{\reset@font\mtcSSSfont 107}{subsubsection.4.3.1.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.1.3}Remarques:}{\reset@font\mtcSSSfont 107}{subsubsection.4.3.1.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.2}Filtre de Kalman inodore}{\reset@font\mtcSSfont 108}{subsection.4.3.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.2.1}Transformation Inodore (\emph {UT}):}{\reset@font\mtcSSSfont 108}{subsubsection.4.3.2.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.2.2}Transformation Inodore inverse:}{\reset@font\mtcSSSfont 109}{subsubsection.4.3.2.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.2.3}Propagation:}{\reset@font\mtcSSSfont 109}{subsubsection.4.3.2.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.3}Filtre \IeC {\`a} particules}{\reset@font\mtcSSfont 111}{subsection.4.3.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.4}Comparaison : estimation d'une variable al\IeC {\'e}atoire propag\IeC {\'e}e par une fonction non-lin\IeC {\'e}aire}{\reset@font\mtcSSfont 111}{subsection.4.3.4}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.4.1}Cas pratique:}{\reset@font\mtcSSSfont 112}{subsubsection.4.3.4.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.4.2}Remarques:}{\reset@font\mtcSSSfont 112}{subsubsection.4.3.4.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.4.3}Quelques r\IeC {\'e}sultats:}{\reset@font\mtcSSSfont 114}{subsubsection.4.3.4.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.4}Algorithme propos\IeC {\'e}}{\reset@font\mtcSfont 114}{section.4.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4.1}D\IeC {\'e}termination de l'Ego-Motion}{\reset@font\mtcSSfont 115}{subsection.4.4.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.4.1.1}Transformation rigide \IeC {\`a} partir de nuages de points appari\IeC {\'e}s}{\reset@font\mtcSSSfont 115}{subsubsection.4.4.1.1}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode M\IeC {\'e}thode par d\IeC {\'e}composition en \IeC {\'e}l\IeC {\'e}ments propres:\\}{\reset@font\mtcPfont 116}{section*.63}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.4.1.2}Estimation robuste et d\IeC {\'e}termination des outliers}{\reset@font\mtcSSSfont 118}{subsubsection.4.4.1.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Pond\IeC {\'e}ration de la m\IeC {\'e}thode \FB@og SVD\FB@fg {}:\\}{\reset@font\mtcPfont 119}{section*.64}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Recherche it\IeC {\'e}rative:\\}{\reset@font\mtcPfont 120}{section*.65}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.4.1.3}Filtrage de l'ego-motion par UKF}{\reset@font\mtcSSSfont 122}{subsubsection.4.4.1.3}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Pourquoi filtrer ?\\}{\reset@font\mtcPfont 122}{section*.67}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Quel type de filtre choisir ?\\}{\reset@font\mtcPfont 123}{section*.69}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Filtrage par Kalman inodore:\\}{\reset@font\mtcPfont 124}{section*.70}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4.2}Filtrage du nuage de points statiques \IeC {\'e}chantillonn\IeC {\'e} dans le temps}{\reset@font\mtcSSfont 125}{subsection.4.4.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.4.2.1}Matrice de visibilit\IeC {\'e}}{\reset@font\mtcSSSfont 125}{subsubsection.4.4.2.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.4.2.2}Filtrage des points}{\reset@font\mtcSSSfont 125}{subsubsection.4.4.2.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Observations multiples:\\}{\reset@font\mtcPfont 125}{section*.72}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Optimisation ou filtrage:\\}{\reset@font\mtcPfont 126}{section*.73}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Choix d'un estimateur:\\}{\reset@font\mtcPfont 127}{section*.74}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Algorithme propos\IeC {\'e}:\\}{\reset@font\mtcPfont 127}{section*.75}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.5}Impl\IeC {\'e}mentation et \IeC {\'e}valuation}{\reset@font\mtcSfont 128}{section.4.5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.5.1}Ego-Motion}{\reset@font\mtcSSfont 128}{subsection.4.5.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.5.1.1}Base de donn\IeC {\'e}es utilis\IeC {\'e}e}{\reset@font\mtcSSSfont 128}{subsubsection.4.5.1.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.5.1.2}Apport de l'UKF}{\reset@font\mtcSSSfont 129}{subsubsection.4.5.1.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.5.1.3}Qualit\IeC {\'e} de l'estimation : comparaison avec l'\IeC {\'e}tat de l'art}{\reset@font\mtcSSSfont 129}{subsubsection.4.5.1.3}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode Trajectoire obtenue par une marche \IeC {\`a} l'estime:\\}{\reset@font\mtcPfont 130}{section*.77}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \IeC {\'E}valuation quantitative:\\}{\reset@font\mtcPfont 131}{section*.79}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.5.2}Reconstruction 3D}{\reset@font\mtcSSfont 132}{subsection.4.5.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.5.3}Temps de calcul}{\reset@font\mtcSSfont 134}{subsection.4.5.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.5.4}Quelle fen\IeC {\^e}tre d'int\IeC {\'e}gration ?}{\reset@font\mtcSSfont 135}{subsection.4.5.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.6}Conclusion}{\reset@font\mtcSfont 136}{section.4.6}}
