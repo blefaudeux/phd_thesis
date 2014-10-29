@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="stereo_model_random.svg"
+   inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+   inkscape:export-xdpi="200.02039"
+   inkscape:export-ydpi="200.02039">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;">
+      <path
+         id="path3797"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient4408"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#146384;stop-opacity:1;"
+         offset="0"
+         id="stop4410" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3791"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3788"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4408"
+       id="linearGradient4412"
+       x1="263.09201"
+       y1="304.81339"
+       x2="328.33682"
+       y2="406.25885"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-165.16142,-50.259372)" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3788-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3791-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4408-9"
+       id="linearGradient4412-3"
+       x1="263.09201"
+       y1="304.81339"
+       x2="328.33682"
+       y2="406.25885"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-196.5533,-27.220083)" />
+    <linearGradient
+       id="linearGradient4408-9"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#146384;stop-opacity:1;"
+         offset="0"
+         id="stop4410-0" />
+    </linearGradient>
+    <linearGradient
+       y2="406.25885"
+       x2="328.33682"
+       y1="304.81339"
+       x1="263.09201"
+       gradientTransform="matrix(1.2711622,0,0,0.99934896,67.501143,99.162562)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5846"
+       xlink:href="#linearGradient4408-9"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3791-4-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3788-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3791-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3788-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3791-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-483.38337"
+     inkscape:cy="585.07686"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:2.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.6,2.6;stroke-dashoffset:0"
+       d="M -141.42136,495.26305 388.00371,236.53634"
+       id="path4853"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039" />
+    <rect
+       style="fill:#146384;fill-opacity:0.14117648;stroke:url(#linearGradient5846);stroke-width:1.07368671999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3772-3"
+       width="318.12421"
+       height="240.32553"
+       x="310.18826"
+       y="319.57153"
+       rx="10.465641"
+       ry="3.5342438"
+       transform="matrix(0.99999999,1.4461394e-4,0,1,0,0)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend-2)"
+       d="M -146.47212,498.79859 349.02767,227.88697"
+       id="path3774"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff9f00;fill-opacity:1;stroke:#f3af38;stroke-width:0.90600002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4414"
+       sodipodi:sides="5"
+       sodipodi:cx="497.14285"
+       sodipodi:cy="233.79076"
+       sodipodi:r1="3.7164564"
+       sodipodi:r2="8.2130651"
+       sodipodi:arg1="1.1784143"
+       sodipodi:arg2="1.8067328"
+       inkscape:flatsided="true"
+       inkscape:rounded="1.4896841"
+       inkscape:randomized="0"
+       d="m 498.56399,237.22476 c -6.01373,2.48874 -0.0226,3.92909 -4.24792,-1.02125 -4.22527,-4.95034 -3.74377,1.19261 -0.3414,-4.3556 3.40237,-5.54822 -2.29114,-3.192 4.03692,-1.67065 6.32805,1.52136 2.32777,-3.16538 2.83635,3.32308 0.50859,6.48846 3.72979,1.23569 -2.28395,3.72442 z"
+       inkscape:transform-center-x="0.18000575"
+       inkscape:transform-center-y="-0.79662808"
+       transform="translate(-109.20055,1.7497904)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-216.84904,-136.82363)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039"><flowRegion
+         id="flowRegion4418"><rect
+           id="rect4420"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         id="flowPara4422"
+         style="font-size:18px">F<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan6240">1</flowSpan></flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -144.19928,492.48513 7.19734,7.19734"
+       id="path4794"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039" />
+    <g
+       id="g4875"
+       transform="translate(114.14724,67.68022)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4855"
+         d="m 47.032183,281.75309 7.879795,-9.13896"
+         style="fill:none;stroke:#000000;stroke-width:0.77865106px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4855-9"
+         d="M 54.911978,283.90142 47.032183,270.4658"
+         style="fill:none;stroke:#000000;stroke-width:0.77865106px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-3"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(448.9815,-297.14151)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039"><flowRegion
+         id="flowRegion4418-3-1"><rect
+           id="rect4420-1-8"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px"
+         id="flowPara4906-4" /></flowRoot>    <rect
+       style="fill:#146384;fill-opacity:0.14117648;stroke:url(#linearGradient4412);stroke-width:0.95261746999999997;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3772"
+       width="250.2625"
+       height="240.4821"
+       x="25.756096"
+       y="170.2932"
+       rx="8.2331285"
+       ry="3.5365462"
+       transform="matrix(0.86809915,0.49639084,-0.07881638,0.99688915,0,0)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="M 79.176131,455.85584 90.124774,369.1483 176.126,422.21041"
+       id="path3776-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="matrix(0.99149224,0.13016581,-0.13016581,0.99149224,109.49746,-165.46353)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039"><flowRegion
+         id="flowRegion4418-3-2-9"><rect
+           id="rect4420-1-5-9"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8">v<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan6204">1</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-6"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="matrix(0.99149224,0.13016581,-0.13016581,0.99149224,184.48812,-185.75566)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039"><flowRegion
+         id="flowRegion4418-3-2-9-1"><rect
+           id="rect4420-1-5-9-2"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8-1">u<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan6170">1</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-2"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(272.76135,-285.31093)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039"><flowRegion
+         id="flowRegion4418-3-2-9-8"><rect
+           id="rect4420-1-5-9-6"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8-3">x<flowSpan
+   style="font-size:65%;baseline-shift:sub"
+   id="flowSpan6083">1</flowSpan></flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m -151.60322,596.11006 10.81711,-100.37476 89.278476,47.3408"
+       id="path3776"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-2-7"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="matrix(0.99787019,0.06523099,-0.06523099,0.99787019,-194.4421,-35.943851)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039"><flowRegion
+         id="flowRegion4418-3-2-9-8-9"><rect
+           id="rect4420-1-5-9-6-0"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8-3-2">y<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan6049">1</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-2-78"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(267.90874,-401.74829)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039"><flowRegion
+         id="flowRegion4418-3-2-9-8-1"><rect
+           id="rect4420-1-5-9-6-7"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8-3-4">z<flowSpan
+   style="font-size:65%;baseline-shift:sub"
+   id="flowSpan6051">1</flowSpan></flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend-2)"
+       d="m 469.25037,641.49776 0,-376.75176"
+       id="path3774-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.44390213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 469.78811,527.8776 0,-75.28983 88.72916,0"
+       id="path3776-4-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:2.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.6,2.6;stroke-dashoffset:0"
+       d="M 468.8589,643.15411 386.8554,235.14168"
+       id="path4853-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039" />
+    <path
+       style="fill:none;stroke:#1a3d4b;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 312.64221,427.58283 517.95667,320.94762"
+       id="path5965"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:2.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.6,2.6;stroke-dashoffset:0"
+       d="M 468.8589,643.15411 414.66921,373.35782"
+       id="path4853-6-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.97552669;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 469.20982,703.20402 0,-60.60774 59.94704,0"
+       id="path3776-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-2-7-7"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(414.07965,86.436318)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039"><flowRegion
+         id="flowRegion4418-3-2-9-8-9-7"><rect
+           id="rect4420-1-5-9-6-0-9"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8-3-2-7">y<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan6043">2</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-2-7-9"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(466.65108,31.579168)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039"><flowRegion
+         id="flowRegion4418-3-2-9-8-9-6"><rect
+           id="rect4420-1-5-9-6-0-7"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8-3-2-1">x<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan6045">2</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-2-7-7-1"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(328.78073,-394.02879)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039"><flowRegion
+         id="flowRegion4418-3-2-9-8-9-7-6"><rect
+           id="rect4420-1-5-9-6-0-9-2"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8-3-2-7-0">M</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-2-7-7-6"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(415.16918,-352.59027)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039"><flowRegion
+         id="flowRegion4418-3-2-9-8-9-7-9"><rect
+           id="rect4420-1-5-9-6-0-9-4"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8-3-2-7-8">z<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan6137">2</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-2-7-7-8"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(154.13786,-201.17165)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039"><flowRegion
+         id="flowRegion4418-3-2-9-8-9-7-60"><rect
+           id="rect4420-1-5-9-6-0-9-6"
+           width="92.14286"
+           height="64.285706"
+           x="61.42857"
+           y="605.2193"
+           style="font-size:14px" /></flowRegion><flowPara
+         style="font-size:14px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowPara5179-8-3-2-7-89">droite épipolaire</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-6-1"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(496.42812,-156.69738)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039"><flowRegion
+         id="flowRegion4418-3-2-9-1-8"><rect
+           id="rect4420-1-5-9-2-8"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8-1-3">u<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan6202">2</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-6-1-6"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(416.25674,-88.268804)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039"><flowRegion
+         id="flowRegion4418-3-2-9-1-8-1"><rect
+           id="rect4420-1-5-9-2-8-9"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8-1-3-6">v<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan6238">2</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(409.65365,34.809733)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039"><flowRegion
+         id="flowRegion4418-6"><rect
+           id="rect4420-6"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         id="flowPara4422-9"
+         style="font-size:18px">F<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan6272">2</flowSpan></flowPara></flowRoot>    <g
+       id="g6395"
+       transform="matrix(0.80314903,0,0,0.80314903,-30.934193,196.05867)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6375"
+         d="m 547.88148,229.21412 14.39468,-14.39467"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6375-0"
+         d="M 562.27616,229.21412 547.88148,214.81945"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:2.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.6,2.6;stroke-dashoffset:0"
+       d="M -141.42136,495.26305 164.25371,345.91134"
+       id="path4853-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200.02039"
+       inkscape:export-ydpi="200.02039" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3187"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+       transform="translate(-16,12)"
+       inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/stereo_model_random.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><flowRegion
+         id="flowRegion3189"><rect
+           id="rect3191"
+           width="69.285713"
+           height="65.714287"
+           x="-45.714287"
+           y="529.50507"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10" /></flowRegion><flowPara
+         id="flowPara3193"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10">x<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan3195">1</flowSpan></flowPara></flowRoot>  </g>
+</svg>

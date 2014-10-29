@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="SIFT.svg"
+   inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+   inkscape:export-xdpi="200.63"
+   inkscape:export-ydpi="200.63">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="510.53822"
+     inkscape:cy="548.17619"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1176"
+     inkscape:window-x="1920"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3819" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3825" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3825-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3825-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3819-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3819-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-5-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3819-9-1"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-5-3-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3819-9-1-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-5-3-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3819-9-1-0"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-5-3-63"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3819-9-1-09"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-5-3-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3819-9-1-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-5-3-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3819-9-1-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-5-3-44"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3819-9-1-1"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3819-8-7"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6-03"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3819-8-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-5-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3819-9-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-66"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3819-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3819-8-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4148"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4150"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       transform="matrix(1,0,-0.50443066,0.8634522,0,0)"
+       ry="2.7455184"
+       rx="8.2376308"
+       y="284.76306"
+       x="229.21931"
+       height="124.21242"
+       width="138.6472"
+       id="rect3004"
+       style="fill:#146384;fill-opacity:0.5322581;stroke:#2f72ff;stroke-width:0.52880126;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <rect
+       transform="matrix(1,0,-0.50443066,0.8634522,0,0)"
+       ry="2.7455184"
+       rx="8.2376308"
+       y="284.76306"
+       x="429.7193"
+       height="124.21242"
+       width="138.6472"
+       id="rect3004-1"
+       style="fill:#146384;fill-opacity:0.33870969;stroke:#2f72ff;stroke-width:0.52880126;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <rect
+       transform="matrix(1,0,-0.50443066,0.8634522,0,0)"
+       ry="2.7455184"
+       rx="8.2376308"
+       y="284.76306"
+       x="630.2193"
+       height="124.21242"
+       width="138.6472"
+       id="rect3004-1-1"
+       style="fill:#146384;fill-opacity:0.18279569;stroke:#2f72ff;stroke-width:0.52880126;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3810"
+       d="m 202.07535,242.30006 c 41.3998,-16.2541 54.42601,-16.49817 96.30092,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <flowRoot
+       transform="translate(3.38231,48.211503)"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       id="flowRoot4290"
+       xml:space="preserve"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4292"><rect
+           y="126.6479"
+           x="161.42857"
+           height="65.714287"
+           width="170"
+           id="rect4294" /></flowRegion><flowPara
+         style="font-size:14px;text-align:center;text-anchor:middle"
+         id="flowPara4296">Convolution par un noyau Gaussien </flowPara><flowPara
+         id="flowPara5210"
+         style="font-size:14px;text-align:center;text-anchor:middle">(oG)</flowPara></flowRoot>    <flowRoot
+       transform="translate(209.47791,85.605503)"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       id="flowRoot4290-9"
+       xml:space="preserve"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4292-9"><rect
+           y="126.6479"
+           x="161.42857"
+           height="65.714287"
+           width="170"
+           id="rect4294-1" /></flowRegion><flowPara
+         style="font-size:14px;text-align:center;text-anchor:middle"
+         id="flowPara4296-1">oG</flowPara></flowRoot>    <flowRoot
+       transform="translate(-171.86859,230.36384)"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       id="flowRoot4290-7"
+       xml:space="preserve"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4292-0"><rect
+           y="126.6479"
+           x="161.42857"
+           height="65.714287"
+           width="170"
+           id="rect4294-0" /></flowRegion><flowPara
+         style="font-size:14px;font-weight:bold;text-align:center;text-anchor:middle"
+         id="flowPara4296-5">Image originale</flowPara></flowRoot>    <flowRoot
+       transform="translate(26.72903,230.36384)"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       id="flowRoot4290-7-1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4292-0-8"><rect
+           y="126.6479"
+           x="161.42857"
+           height="65.714287"
+           width="170"
+           id="rect4294-0-3" /></flowRegion><flowPara
+         id="flowPara4408"
+         style="font-size:14px;text-align:center;text-anchor:middle">Image &quot;floue&quot; A</flowPara></flowRoot>    <flowRoot
+       transform="translate(262.29934,230.36384)"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       id="flowRoot4290-7-1-4"
+       xml:space="preserve"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4292-0-8-8"><rect
+           style="text-align:start;text-anchor:start"
+           y="126.6479"
+           x="161.42857"
+           height="65.714287"
+           width="170"
+           id="rect4294-0-3-8" /></flowRegion><flowPara
+         style="font-size:14px;text-align:start;text-anchor:start"
+         id="flowPara4296-5-5-4">Image &quot;floue&quot; B</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3810-6-5"
+       d="m 497.97091,383.22387 0,123.27663"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow1Lend-6)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <flowRoot
+       transform="translate(180.69309,308.15498)"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       id="flowRoot4290-9-1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4292-9-4"><rect
+           y="126.6479"
+           x="161.42857"
+           height="65.714287"
+           width="170"
+           id="rect4294-1-6" /></flowRegion><flowPara
+         style="font-size:14px;font-style:italic;text-align:center;text-anchor:middle"
+         id="flowPara4296-1-7">Sous-échantillonnage</flowPara></flowRoot>    <rect
+       transform="matrix(1,0,-0.50443066,0.8634522,0,0)"
+       ry="2.0078442"
+       rx="6.0243192"
+       y="598.71771"
+       x="798.79614"
+       height="90.838646"
+       width="101.39505"
+       id="rect3004-1-1-6"
+       style="fill:#146384;fill-opacity:0.18279569;stroke:#2f72ff;stroke-width:0.38672134;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <rect
+       transform="matrix(1,0,-0.50443066,0.8634522,0,0)"
+       ry="2.0078442"
+       rx="6.0243192"
+       y="598.71771"
+       x="987.3924"
+       height="90.838646"
+       width="101.39505"
+       id="rect3004-1-1-6-9"
+       style="fill:#146384;fill-opacity:0.10588235;stroke:#2f72ff;stroke-width:0.38672134;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <flowRoot
+       transform="translate(289.06841,471.703)"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       id="flowRoot4290-7-1-4-5"
+       xml:space="preserve"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4292-0-8-8-9"><rect
+           style="text-align:start;text-anchor:start"
+           y="126.6479"
+           x="161.42857"
+           height="65.714287"
+           width="170"
+           id="rect4294-0-3-8-0" /></flowRegion><flowPara
+         style="font-size:14px;text-align:start;text-anchor:start"
+         id="flowPara4296-5-5-4-1">B' = B réduite</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3810-2"
+       d="m 405.40803,242.30006 c 41.3998,-16.2541 54.42601,-16.49817 96.30092,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3810-3"
+       d="m 589.32975,514.5264 c 41.3998,-16.2541 54.42601,-16.49817 96.30092,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <flowRoot
+       transform="translate(464.69027,426.71315)"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       id="flowRoot4290-7-1-4-5-3"
+       xml:space="preserve"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4292-0-8-8-9-9"><rect
+           style="text-align:start;text-anchor:start"
+           y="126.6479"
+           x="161.42857"
+           height="65.714287"
+           width="170"
+           id="rect4294-0-3-8-0-6" /></flowRegion><flowPara
+         style="font-size:14px;text-align:start;text-anchor:start"
+         id="flowPara4296-5-5-4-1-8" /></flowRoot>    <flowRoot
+       transform="translate(391.14683,357.9502)"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       id="flowRoot4290-9-16"
+       xml:space="preserve"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4292-9-7"><rect
+           y="126.6479"
+           x="161.42857"
+           height="65.714287"
+           width="170"
+           id="rect4294-1-2" /></flowRegion><flowPara
+         style="font-size:14px;text-align:center;text-anchor:middle"
+         id="flowPara4296-1-9">oG</flowPara></flowRoot>    <g
+       ns0:preamble=""
+       ns0:text="$\\Delta$"
+       word-spacing="normal"
+       letter-spacing="normal"
+       font-size-adjust="none"
+       font-stretch="normal"
+       font-weight="normal"
+       font-variant="normal"
+       font-style="normal"
+       stroke-miterlimit="10.433"
+       xml:space="preserve"
+       transform="matrix(1.6270064,0,0,-1.6270064,238.82209,1620.4548)"
+       id="content"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><path
+         id="path5303"
+         d="m 227.83,664.17 -0.01,0.01 0,0.01 -0.01,0.01 0,0.01 -0.01,0.01 -0.01,0.01 0,0.01 -0.01,0.01 0,0.01 -0.01,0.01 0,0.01 -0.01,0 0,0.01 -0.01,0.01 -0.01,0 0,0.01 -0.01,0 -0.01,0.01 0,0 -0.01,0.01 -0.01,0 -0.01,0 -0.01,0.01 -0.01,0 -0.01,0 -0.01,0 -0.01,0 -0.01,0.01 -0.02,0 -0.01,0 -0.01,0 -0.02,0 c -0.17,0 -0.19,-0.05 -0.26,-0.18 l -0.06,-0.82 2.68,-5.36 h -5.36 l 2.68,5.36 0.06,0.82 -3.36,-6.74 c -0.05,-0.09 -0.05,-0.11 -0.05,-0.12 0,-0.08 0.06,-0.08 0.22,-0.08 h 6.9 c 0.16,0 0.22,0 0.22,0.08 0,0.01 0,0.03 -0.05,0.12 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke-width:0" /></g>    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1, 0.5, 1;stroke-dashoffset:0;marker-end:url(#Arrow1Lend-5)"
+       d="m 669.68909,576.95448 c -28.33775,-25.99338 -81.16793,-30.66179 -121.2183,0"
+       id="path5368"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <g
+       ns0:preamble=""
+       ns0:text="$\\Delta$"
+       word-spacing="normal"
+       letter-spacing="normal"
+       font-size-adjust="none"
+       font-stretch="normal"
+       font-weight="normal"
+       font-variant="normal"
+       font-style="normal"
+       stroke-miterlimit="10.433"
+       xml:space="preserve"
+       transform="matrix(1.6270064,0,0,-1.6270064,46.603209,1352.0169)"
+       id="content-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><path
+         id="path5303-8"
+         d="m 227.83,664.17 -0.01,0.01 0,0.01 -0.01,0.01 0,0.01 -0.01,0.01 -0.01,0.01 0,0.01 -0.01,0.01 0,0.01 -0.01,0.01 0,0.01 -0.01,0 0,0.01 -0.01,0.01 -0.01,0 0,0.01 -0.01,0 -0.01,0.01 0,0 -0.01,0.01 -0.01,0 -0.01,0 -0.01,0.01 -0.01,0 -0.01,0 -0.01,0 -0.01,0 -0.01,0.01 -0.02,0 -0.01,0 -0.01,0 -0.02,0 c -0.17,0 -0.19,-0.05 -0.26,-0.18 l -0.06,-0.82 2.68,-5.36 h -5.36 l 2.68,5.36 0.06,0.82 -3.36,-6.74 c -0.05,-0.09 -0.05,-0.11 -0.05,-0.12 0,-0.08 0.06,-0.08 0.22,-0.08 h 6.9 c 0.16,0 0.22,0 0.22,0.08 0,0.01 0,0.03 -0.05,0.12 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke-width:0" /></g>    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1, 0.5, 1;stroke-dashoffset:0;marker-end:url(#Arrow1Lend-5)"
+       d="m 470.83261,317.83971 c -28.33775,-25.99338 -58.52963,-47.99323 -121.2183,0"
+       id="path5368-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <g
+       id="g5893"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"
+       transform="translate(60,122)">
+      <g
+         id="g5896">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-5-3)"
+           d="m 106.06602,475.24167 28.82164,0 28.82164,36.66796 28.82164,0 28.82164,31.77889"
+           id="path5619"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+    </g>
+    <flowRoot
+       transform="translate(21.314031,478.94083)"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       id="flowRoot4290-9-1-9"
+       xml:space="preserve"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4292-9-4-1"><rect
+           y="126.6479"
+           x="161.42857"
+           height="65.714287"
+           width="170"
+           id="rect4294-1-6-9" /></flowRegion><flowPara
+         style="font-size:14px;text-align:center;text-anchor:middle"
+         id="flowPara4296-1-7-03">Construction</flowPara></flowRoot>    <flowRoot
+       transform="translate(-57.66078,525.34612)"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       id="flowRoot4290-9-1-9-1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4292-9-4-1-1"><rect
+           y="126.6479"
+           x="161.42857"
+           height="65.714287"
+           width="170"
+           id="rect4294-1-6-9-4" /></flowRegion><flowPara
+         style="font-size:14px;text-align:center;text-anchor:middle"
+         id="flowPara4296-1-7-03-9">Détection</flowPara></flowRoot>    <g
+       transform="matrix(-1,0,0,-1,300.13787,1031.113)"
+       id="g5893-4"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63">
+      <g
+         id="g5896-9" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,-1,338.7093,1063.8273)"
+       id="g5893-42"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63">
+      <g
+         id="g5896-5">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-5-3)"
+           d="m 66.06602,381.67024 28.82164,34.27062 28.82164,0 28.82164,34.00107 28.82164,0"
+           id="path5619-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+    </g>
+    <rect
+       style="fill:none;stroke:#5b5b5b;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6647"
+       width="197.53772"
+       height="120.67157"
+       x="129.75415"
+       y="576.9975"
+       rx="8.2376308"
+       ry="2.7455184"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <flowRoot
+       transform="translate(477.66466,471.689)"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       id="flowRoot4290-7-1-4-5-9"
+       xml:space="preserve"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4292-0-8-8-9-4"><rect
+           style="text-align:start;text-anchor:start"
+           y="126.6479"
+           x="161.42857"
+           height="65.714287"
+           width="170"
+           id="rect4294-0-3-8-0-1" /></flowRegion><flowPara
+         style="font-size:14px;text-align:start;text-anchor:start"
+         id="flowPara4296-5-5-4-1-1">B' floue</flowPara></flowRoot>    <flowRoot
+       transform="translate(330.38899,309.37298)"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       id="flowRoot4290-9-1-2-5"
+       xml:space="preserve"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4292-9-4-6-5"><rect
+           y="126.6479"
+           x="161.42857"
+           height="65.714287"
+           width="170"
+           id="rect4294-1-6-5-4" /></flowRegion><flowPara
+         style="font-size:14px;font-style:italic;text-align:center;text-anchor:middle"
+         id="flowPara4296-1-7-0-7">Points détectés</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3810-6-5-6"
+       d="m 526.42857,506.5005 0,-123.27663"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0;marker-end:url(#Arrow1Lend-6)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <rect
+       transform="matrix(1,0,-0.50443066,0.8634522,0,0)"
+       ry="2.0078442"
+       rx="6.0243192"
+       y="793.12543"
+       x="1085.4562"
+       height="60.297722"
+       width="67.304947"
+       id="rect3004-1-1-6-0"
+       style="fill:#146384;fill-opacity:0.10588235;stroke:#2f72ff;stroke-width:0.38672134;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3810-3-9"
+       d="m 744.2302,683.38313 c 29.25694,-13.39696 39.42601,-14.35531 70.58663,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <flowRoot
+       transform="translate(533.19014,527.94978)"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       id="flowRoot4290-9-16-0"
+       xml:space="preserve"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4292-9-7-3"><rect
+           y="126.6479"
+           x="161.42857"
+           height="65.714287"
+           width="170"
+           id="rect4294-1-2-7" /></flowRegion><flowPara
+         style="font-size:14px;text-align:center;text-anchor:middle"
+         id="flowPara4296-1-9-3">oG</flowPara></flowRoot>    <g
+       id="g3149">
+      <flowRoot
+         inkscape:export-ydpi="200.63"
+         inkscape:export-xdpi="200.63"
+         inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+         xml:space="preserve"
+         id="flowRoot4290-9-1-2"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         transform="translate(405.11536,560.51749)"><flowRegion
+           id="flowRegion4292-9-4-6"><rect
+             style="text-align:start;text-anchor:start"
+             id="rect4294-1-6-5"
+             width="92.681313"
+             height="53.448887"
+             x="161.42857"
+             y="126.6479" /></flowRegion><flowPara
+           id="flowPara4296-1-7-0"
+           style="font-size:14px;text-align:center;text-anchor:middle"><flowSpan
+   id="flowSpan3114"
+   style="font-weight:bold;text-align:center;text-anchor:middle">Détection</flowSpan>       :  différence de Gaussiennes</flowPara></flowRoot>      <g
+         inkscape:export-ydpi="200.63"
+         inkscape:export-xdpi="200.63"
+         inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="content-5"
+         transform="matrix(1.6270064,0,0,-1.6270064,275.19813,1771.1836)"
+         xml:space="preserve"
+         stroke-miterlimit="10.433"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="normal"
+         font-stretch="normal"
+         font-size-adjust="none"
+         letter-spacing="normal"
+         word-spacing="normal"
+         ns0:text="$\\Delta$"
+         ns0:preamble=""><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 227.83,664.17 -0.01,0.01 0,0.01 -0.01,0.01 0,0.01 -0.01,0.01 -0.01,0.01 0,0.01 -0.01,0.01 0,0.01 -0.01,0.01 0,0.01 -0.01,0 0,0.01 -0.01,0.01 -0.01,0 0,0.01 -0.01,0 -0.01,0.01 0,0 -0.01,0.01 -0.01,0 -0.01,0 -0.01,0.01 -0.01,0 -0.01,0 -0.01,0 -0.01,0 -0.01,0.01 -0.02,0 -0.01,0 -0.01,0 -0.02,0 c -0.17,0 -0.19,-0.05 -0.26,-0.18 l -0.06,-0.82 2.68,-5.36 h -5.36 l 2.68,5.36 0.06,0.82 -3.36,-6.74 c -0.05,-0.09 -0.05,-0.11 -0.05,-0.12 0,-0.08 0.06,-0.08 0.22,-0.08 h 6.9 c 0.16,0 0.22,0 0.22,0.08 0,0.01 0,0.03 -0.05,0.12 z"
+           id="path5303-1" /></g>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1, 0.5, 1;stroke-dashoffset:0;marker-end:url(#Arrow1Lend-5)"
+       d="m 796.70669,718.19847 c -17.90699,-17.63576 -48.03069,-18.20247 -74.8046,0"
+       id="path5368-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <rect
+       transform="matrix(1,0,-0.50443066,0.8634522,0,0)"
+       ry="2.0078442"
+       rx="6.0243192"
+       y="793.12543"
+       x="1207.4307"
+       height="60.297722"
+       width="67.304947"
+       id="rect3004-1-1-6-0-0"
+       style="fill:#146384;fill-opacity:0.06666667;stroke:#2f72ff;stroke-width:0.38672134;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3810-6-5-4"
+       d="m 695.90841,610.272 0,60.24362"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow1Mend-1)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3810-6-5-6-4"
+       d="m 706.36607,670.51562 0,-60.24362"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 1;stroke-dashoffset:0;marker-end:url(#Arrow1Mend-1)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <g
+       ns0:preamble=""
+       ns0:text="$\\Delta$"
+       word-spacing="normal"
+       letter-spacing="normal"
+       font-size-adjust="none"
+       font-stretch="normal"
+       font-weight="normal"
+       font-variant="normal"
+       font-style="normal"
+       stroke-miterlimit="10.433"
+       xml:space="preserve"
+       transform="matrix(1.6270064,0,0,-1.6270064,389.04654,1787.8079)"
+       id="content-5-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/SIFT.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><path
+         id="path5303-1-1"
+         d="m 227.83,664.17 -0.01,0.01 0,0.01 -0.01,0.01 0,0.01 -0.01,0.01 -0.01,0.01 0,0.01 -0.01,0.01 0,0.01 -0.01,0.01 0,0.01 -0.01,0 0,0.01 -0.01,0.01 -0.01,0 0,0.01 -0.01,0 -0.01,0.01 0,0 -0.01,0.01 -0.01,0 -0.01,0 -0.01,0.01 -0.01,0 -0.01,0 -0.01,0 -0.01,0 -0.01,0.01 -0.02,0 -0.01,0 -0.01,0 -0.02,0 c -0.17,0 -0.19,-0.05 -0.26,-0.18 l -0.06,-0.82 2.68,-5.36 h -5.36 l 2.68,5.36 0.06,0.82 -3.36,-6.74 c -0.05,-0.09 -0.05,-0.11 -0.05,-0.12 0,-0.08 0.06,-0.08 0.22,-0.08 h 6.9 c 0.16,0 0.22,0 0.22,0.08 0,0.01 0,0.03 -0.05,0.12 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke-width:0" /></g>  </g>
+</svg>

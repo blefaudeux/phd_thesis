@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="sensor_hierarchy.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3774">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.31034482;"
+         offset="0"
+         id="stop3776" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3778" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="304.72423"
+     inkscape:cy="635.2065"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3784-7"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-54.062383,124.54243)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001"><flowRegion
+         id="flowRegion3786-3"><rect
+           id="rect3788-0"
+           width="122.85714"
+           height="60"
+           x="247.85715"
+           y="153.79076" /></flowRegion><flowPara
+         id="flowPara3790-5"
+         style="font-size:20px">Active</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3784-7-7"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(385.6519,114.54243)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001"><flowRegion
+         id="flowRegion3786-3-7"><rect
+           id="rect3788-0-6"
+           width="122.85714"
+           height="60"
+           x="247.85715"
+           y="153.79076" /></flowRegion><flowPara
+         style="font-size:20px"
+         id="flowPara3852">Passive</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3784-7-3-8"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-194.77667,228.25672)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001"><flowRegion
+         id="flowRegion3786-3-6-3"><rect
+           id="rect3788-0-7-7"
+           width="122.85714"
+           height="60"
+           x="247.85715"
+           y="153.79076" /></flowRegion><flowPara
+         id="flowPara3790-5-9-5"
+         style="font-size:20px">Ultrasound</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3784-7-3-8-2"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-55.633811,229.39958)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001"><flowRegion
+         id="flowRegion3786-3-6-3-2"><rect
+           id="rect3788-0-7-7-3"
+           width="122.85714"
+           height="60"
+           x="247.85715"
+           y="153.79076" /></flowRegion><flowPara
+         id="flowPara3790-5-9-5-3"
+         style="font-size:20px">3D Camera</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       d="m -72.857143,446.93361 782.857143,0"
+       id="path3946"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       d="m -65.714282,676.6479 782.857142,0"
+       id="path3946-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3784-0"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-458.91953,93.828144)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001"><flowRegion
+         id="flowRegion3786-2"><rect
+           id="rect3788-6"
+           width="122.85714"
+           height="60"
+           x="247.85715"
+           y="153.79076" /></flowRegion><flowPara
+         id="flowPara3790-3"
+         style="font-size:20px;font-weight:bold;font-style:italic">Sensors</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3784-7-3-8-2-5"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(97.36618,230.6853)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001"><flowRegion
+         id="flowRegion3786-3-6-3-2-5"><rect
+           id="rect3788-0-7-7-3-0"
+           width="122.85714"
+           height="60"
+           x="247.85715"
+           y="153.79076" /></flowRegion><flowPara
+         id="flowPara3790-5-9-5-3-0"
+         style="font-size:20px">Telecom</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3784-7-3-8-2-5-2"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(297.93762,202.97102)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001"><flowRegion
+         id="flowRegion3786-3-6-3-2-5-6"><rect
+           id="rect3788-0-7-7-3-0-3"
+           width="122.85714"
+           height="60"
+           x="247.85715"
+           y="153.79076" /></flowRegion><flowPara
+         id="flowPara3790-5-9-5-3-0-3"
+         style="font-size:20px">Telecom probe</flowPara></flowRoot>    <rect
+       style="opacity:0.81600001;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       id="rect4264"
+       width="78.214287"
+       height="47.5"
+       x="181.78572"
+       y="270.57648"
+       ry="1.7616304"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <g
+       id="g4355"
+       transform="translate(0,4)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001">
+      <flowRoot
+         transform="translate(-284.63381,226.82815)"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3784-7-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3786-3-6"><rect
+             y="153.79076"
+             x="247.85715"
+             height="60"
+             width="122.85714"
+             id="rect3788-0-7" /></flowRegion><flowPara
+           style="font-size:20px"
+           id="flowPara3790-5-9">Lidar</flowPara></flowRoot>      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="translate(-232.47977,97.378195)"
+         id="use4266"
+         xlink:href="#rect4264"
+         y="0"
+         x="0" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4266"
+       id="use4268"
+       transform="matrix(1.4557327,0,0,1,121.73759,3.637059)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4268"
+       id="use4270"
+       transform="matrix(0.96233289,0,0,1,140.70179,2.0203051)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4270"
+       id="use4272"
+       transform="translate(146.47212,1.0101525)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <rect
+       style="opacity:0.81600001;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       id="rect4264-2"
+       width="78.214287"
+       height="47.5"
+       x="623.75"
+       y="258.61218"
+       ry="1.7616304"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <g
+       id="g4411"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001">
+      <flowRoot
+         transform="translate(472.22333,198.11386)"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3784-7-3-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3786-3-6-5"><rect
+             y="153.79076"
+             x="247.85715"
+             height="60"
+             width="122.85714"
+             id="rect3788-0-7-64" /></flowRegion><flowPara
+           style="font-size:20px"
+           id="flowPara3790-5-9-0">Vision</flowPara></flowRoot>      <rect
+         ry="1.7616304"
+         y="344.32645"
+         x="711.60712"
+         height="47.5"
+         width="78.214287"
+         id="rect4264-8"
+         style="opacity:0.81600001;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0" />
+    </g>
+    <rect
+       style="opacity:0.81600001;fill:none;stroke:#000000;stroke-width:1.20949304;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.20949305, 1.20949305;stroke-dashoffset:0"
+       id="rect4264-9"
+       width="97.290504"
+       height="55.861935"
+       x="536.71185"
+       y="353.71692"
+       ry="2.0717492"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3784-7-6"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-479.27054,360.22815)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001"><flowRegion
+         id="flowRegion3786-3-8"><rect
+           id="rect3788-0-61"
+           width="122.85714"
+           height="60"
+           x="247.85715"
+           y="153.79076" /></flowRegion><flowPara
+         id="flowPara3790-5-1"
+         style="font-size:20px;font-weight:bold;font-style:italic">Processing</flowPara></flowRoot>    <g
+       id="g4369"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001">
+      <flowRoot
+         transform="translate(-305.59712,377.371)"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3784-7-3-7"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3786-3-6-8"><rect
+             y="153.79076"
+             x="247.85715"
+             height="60"
+             width="122.85714"
+             id="rect3788-0-7-6" /></flowRegion><flowPara
+           style="font-size:20px"
+           id="flowPara3790-5-9-9">SLAM</flowPara></flowRoot>      <rect
+         ry="1.5756444"
+         y="524.52814"
+         x="-73.470284"
+         height="42.485138"
+         width="81.280647"
+         id="rect4264-0"
+         style="opacity:0.81600001;fill:none;stroke:#000000;stroke-width:0.9641003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.96410033, 0.96410033;stroke-dashoffset:0" />
+    </g>
+    <g
+       id="g4376"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001">
+      <flowRoot
+         transform="translate(-180.76895,378.09957)"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3784-7-3-7-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3786-3-6-8-4"><rect
+             y="153.79076"
+             x="247.85715"
+             height="60"
+             width="122.85714"
+             id="rect3788-0-7-6-6" /></flowRegion><flowPara
+           id="flowPara4047"
+           style="font-size:20px">Bayesian Inference</flowPara></flowRoot>      <rect
+         ry="2.3116438"
+         y="532.84912"
+         x="58.10968"
+         height="62.330376"
+         width="104.15634"
+         id="rect4264-4"
+         style="opacity:0.81600001;fill:none;stroke:#000000;stroke-width:1.321913;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.32191301, 1.32191301;stroke-dashoffset:0" />
+    </g>
+    <g
+       id="g4383"
+       transform="translate(-8,-16)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001">
+      <flowRoot
+         transform="translate(199.83862,357.32814)"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3784-7-3-7-3-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3786-3-6-8-4-9"><rect
+             y="153.79076"
+             x="247.85715"
+             height="60"
+             width="122.85714"
+             id="rect3788-0-7-6-6-8" /></flowRegion><flowPara
+           id="flowPara4047-5"
+           style="font-size:20px">Disparity</flowPara></flowRoot>      <rect
+         ry="1.7616304"
+         y="502.32269"
+         x="441.72546"
+         height="47.5"
+         width="96.788445"
+         id="rect4264-7"
+         style="opacity:0.81600001;fill:none;stroke:#000000;stroke-width:1.11241984;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.1124198, 1.1124198;stroke-dashoffset:0" />
+    </g>
+    <g
+       id="g4390"
+       transform="translate(0,22)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001">
+      <flowRoot
+         transform="translate(315.41362,360.06814)"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3784-7-3-7-3-3-1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3786-3-6-8-4-9-4"><rect
+             y="153.79076"
+             x="247.85715"
+             height="60"
+             width="122.85714"
+             id="rect3788-0-7-6-6-8-8" /></flowRegion><flowPara
+           id="flowPara4047-5-7"
+           style="font-size:20px">Optical Flux</flowPara></flowRoot>      <rect
+         ry="1.7616304"
+         y="501.31256"
+         x="562.94379"
+         height="47.5"
+         width="124.04919"
+         id="rect4264-02"
+         style="opacity:0.81600001;fill:none;stroke:#000000;stroke-width:1.25937164;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.2593717, 1.2593717;stroke-dashoffset:0" />
+    </g>
+    <g
+       id="g4397"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001">
+      <flowRoot
+         transform="translate(475.69933,400.06814)"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3784-7-3-7-3-3-0"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3786-3-6-8-4-9-9"><rect
+             y="153.79076"
+             x="247.85715"
+             height="60"
+             width="122.85714"
+             id="rect3788-0-7-6-6-8-3" /></flowRegion><flowPara
+           id="flowPara4047-5-1"
+           style="font-size:20px">Visual SLAM</flowPara></flowRoot>      <rect
+         ry="1.7616304"
+         y="547.77954"
+         x="719.51746"
+         height="47.5"
+         width="125.1813"
+         id="rect4264-84"
+         style="opacity:0.81600001;fill:none;stroke:#000000;stroke-width:1.26510537;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.26510535, 1.26510535;stroke-dashoffset:0" />
+    </g>
+    <g
+       id="g4404"
+       transform="translate(-30,-28)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001">
+      <flowRoot
+         transform="translate(667.05313,357.341)"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3784-7-3-7-3-3-0-2"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3786-3-6-8-4-9-9-2"><rect
+             y="153.79076"
+             x="247.85715"
+             height="60"
+             width="122.85714"
+             id="rect3788-0-7-6-6-8-3-0" /></flowRegion><flowPara
+           id="flowPara4047-5-1-1"
+           style="font-size:20px">Bayesian Inference</flowPara></flowRoot>      <rect
+         ry="2.0504878"
+         y="511.56033"
+         x="905.5318"
+         height="55.288651"
+         width="112.26691"
+         id="rect4264-27"
+         style="opacity:0.81600001;fill:none;stroke:#000000;stroke-width:1.29256988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.29256984, 1.29256984;stroke-dashoffset:0" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 193.61442,318.07648 -88.74427,77.26525"
+       id="path4425"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect4264"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#use4268"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 225.67094,318.07648 15.95085,79.28556"
+       id="path4427"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect4264"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#use4270"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 258.87183,317.96 129.22208,80.41219"
+       id="path4429"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect4264"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#use4272"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 644.31846,306.11218 -37.15911,47.60474"
+       id="path4431"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect4264-2"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#rect4264-9"
+       inkscape:connection-end-point="d4"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 687.20089,306.11218 39.16962,38.21427"
+       id="path4433"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect4264-2"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g4411"
+       inkscape:connection-end-point="d4"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -11.586906,395.70467 -29.822903,524.52814"
+       id="path4435"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4355"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g4369"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -11.586906,395.70467 87.639331,532.84912"
+       id="path4437"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4355"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#g4376"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -11.586906,395.70467 181.78572,311.38005"
+       id="path4441"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4355"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#rect4264"
+       inkscape:connection-end-point="d4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 740.44182,406.87471 -5.05077,-1.01016 -238.396,72.73099"
+       id="path4449"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 752.56365,407.88486 627.30473,514.96103"
+       id="path4451"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 763.67532,411.92547 2.02031,122.22846"
+       id="path4453"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 784.88853,407.88486 932.3708,480.61584"
+       id="path4455"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/sensor_hierarchy.png"
+       inkscape:export-xdpi="400.60001"
+       inkscape:export-ydpi="400.60001" />
+  </g>
+</svg>

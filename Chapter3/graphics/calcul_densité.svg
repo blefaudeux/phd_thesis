@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="calcul_densité.svg">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect3936"
+       is_visible="true"
+       yy="true"
+       xx="true"
+       bendpath1="m 175.22577,483.54031 c 9.57732,-3.78807 21.21432,-1.74589 28.10061,2.77792"
+       bendpath2="m 206.23057,483.54031 0,21.39397"
+       bendpath3="m 175.22577,504.93428 31.0048,0"
+       bendpath4="m 175.22577,483.54031 0,21.39397"
+       bendpath1-nodetypes="cc" />
+    <inkscape:path-effect
+       effect="bend_path"
+       id="path-effect3934"
+       is_visible="true"
+       bendpath="m 175.73315,493.68555 c 11.63667,3.28646 16.10268,3.565 29.5908,-0.17857"
+       prop_scale="1"
+       scale_y_rel="false"
+       vertical="false"
+       bendpath-nodetypes="cc" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="203.33309"
+     inkscape:cy="545.06622"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1176"
+     inkscape:window-x="1920"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 129.55206,525.06255 z"
+       id="path3026"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/calcul_densité.png"
+       inkscape:export-xdpi="600.48822"
+       inkscape:export-ydpi="600.48822" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 168.85501,512.84675 0,-11.54639"
+       id="path3048"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/calcul_densité.png"
+       inkscape:export-xdpi="600.48822"
+       inkscape:export-ydpi="600.48822" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 165.46526,518.91561 20.38352,-15.08362 -16.99377,-3.04441 z"
+       id="path3024"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/calcul_densité.png"
+       inkscape:export-xdpi="600.48822"
+       inkscape:export-ydpi="600.48822" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 165.32688,518.9848 20.5219,-3.02841 m 0,0 -16.99377,-3.0444 m 0,0 -3.52813,6.07281"
+       id="path3024-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/calcul_densité.png"
+       inkscape:export-xdpi="600.48822"
+       inkscape:export-ydpi="600.48822" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 185.84878,515.97797 0,-12.03564"
+       id="path3046"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/calcul_densité.png"
+       inkscape:export-xdpi="600.48822"
+       inkscape:export-ydpi="600.48822" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:0.24027066;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3818"
+       sodipodi:cx="165.98215"
+       sodipodi:cy="509.95148"
+       sodipodi:rx="51.160713"
+       sodipodi:ry="37.94643"
+       d="m 217.14286,509.95148 a 51.160713,37.94643 0 1 1 -102.32143,0 51.160713,37.94643 0 1 1 102.32143,0 z"
+       transform="matrix(1.1198109,0,0,1.1198109,-18.901184,-53.928387)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/calcul_densité.png"
+       inkscape:export-xdpi="600.48822"
+       inkscape:export-ydpi="600.48822" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:0.24027066;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3818-7"
+       sodipodi:cx="165.98215"
+       sodipodi:cy="509.95148"
+       sodipodi:rx="51.160713"
+       sodipodi:ry="11.339288"
+       d="M 206.59684,503.05612 A 51.160713,11.339288 0 1 1 155.81626,498.8383"
+       sodipodi:start="5.6295276"
+       sodipodi:end="10.795538"
+       sodipodi:open="true"
+       transform="matrix(1.1198109,0,0,1.1198109,-18.901184,-53.928387)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/calcul_densité.png"
+       inkscape:export-xdpi="600.48822"
+       inkscape:export-ydpi="600.48822" />
+    <path
+       style="fill:#000000;fill-opacity:0.43842367;stroke:none"
+       d="m 176.6948,482.9849 c -0.37441,0.7305 -0.63162,1.65839 -0.87906,2.77238 -0.24743,1.11398 -0.48529,2.42374 -0.59304,3.90151 -0.10774,1.47777 -0.0572,3.11802 0.26134,4.84221 0.31851,1.7242 0.91237,3.52453 1.55678,5.39591 1.12164,-0.30627 3.08382,-0.39824 5.32355,-0.29315 2.23973,0.10508 4.76486,0.4222 7.35167,0.91017 2.58682,0.48796 5.27075,1.13583 7.73343,1.82762 2.46268,0.69178 4.67545,1.42585 6.13153,2.14936 0.17537,-0.75419 0.39333,-1.53927 0.6502,-2.35015 0.25687,-0.81088 0.54985,-1.64836 0.82516,-2.50842 0.55064,-1.72012 0.9863,-3.54343 0.97177,-5.32268 -0.0145,-1.77925 -0.47252,-3.49469 -1.08753,-4.95229 -0.615,-1.45761 -1.32863,-2.65275 -1.85786,-3.57943 -0.62712,-0.15887 -1.43861,-0.35099 -2.3696,-0.60178 -0.931,-0.25079 -1.98188,-0.56074 -3.11008,-0.8997 -2.2564,-0.67793 -4.82933,-1.44682 -7.44122,-1.83337 -1.30594,-0.19327 -2.62038,-0.29484 -3.90355,-0.30937 -1.28316,-0.0145 -2.53485,0.0562 -3.71701,0.15969 -2.36433,0.207 -4.45493,0.50634 -5.95984,0.50436 0.0384,0.0622 0.0761,0.12454 0.11336,0.18713 z"
+       id="rect3922"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect3936"
+       inkscape:original-d="m 175.948,482.61138 c -2.57148,2.65426 -2.75278,10.26023 -0.15898,18.80972 4.87537,-1.26259 25.01243,1.96291 30.41588,5.11168 3.9248,-6.59916 2.74709,-16.76626 0.94025,-21.99768 -5.13468,-1.18584 -24.37689,-0.59805 -31.27107,-2.14566 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/calcul_densité.png"
+       inkscape:export-xdpi="600.48822"
+       inkscape:export-ydpi="600.48822" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3926"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(5.5357143,-3.75)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/calcul_densité.png"
+       inkscape:export-xdpi="600.48822"
+       inkscape:export-ydpi="600.48822"><flowRegion
+         id="flowRegion3928"><rect
+           id="rect3930"
+           width="20.535715"
+           height="13.035714"
+           x="173.39285"
+           y="486.64789"
+           style="font-size:8px" /></flowRegion><flowPara
+         id="flowPara3932"
+         style="font-size:8px;font-style:italic">S</flowPara></flowRoot>  </g>
+</svg>

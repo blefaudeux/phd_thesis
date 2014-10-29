@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="tracking_process.svg"
+   inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3942"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3942-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3942-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="295.84655"
+     inkscape:cy="789.12746"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4063"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+       inkscape:export-xdpi="399.96387"
+       inkscape:export-ydpi="399.96387">
+      <rect
+         ry="3.0796115"
+         rx="3.0796115"
+         y="194.30577"
+         x="10"
+         height="37.239285"
+         width="102.59207"
+         id="rect3004"
+         style="fill:none;stroke:#000000;stroke-width:0.94999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(-52.583027,-3.4875883)"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3774"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3776"><rect
+             y="203.83405"
+             x="48.992397"
+             height="51.51778"
+             width="129.29953"
+             id="rect3778" /></flowRegion><flowPara
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="flowPara3780">Recherche de points</flowPara><flowPara
+           id="flowPara3782"
+           style="font-size:10px;text-align:center;text-anchor:middle">d'intérêt</flowPara></flowRoot>    </g>
+    <g
+       id="g3049"
+       transform="translate(-61.628714,-1.5003608)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+       inkscape:export-xdpi="399.96387"
+       inkscape:export-ydpi="399.96387">
+      <rect
+         ry="3.5846727"
+         rx="3.5846727"
+         y="283.97839"
+         x="291.9985"
+         height="37.239285"
+         width="102.59207"
+         id="rect3004-9-8"
+         style="fill:none;stroke:#000000;stroke-width:0.94999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(250.04,91.155039)"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3774-6-6"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3776-3-3"><rect
+             y="203.83405"
+             x="48.992397"
+             height="28.284267"
+             width="88.388359"
+             id="rect3778-4-8" /></flowRegion><flowPara
+           id="flowPara3782-5-4"
+           style="font-size:10px;text-align:center;text-anchor:middle">Masque</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 113.29765,213.43049 18.66716,0"
+       id="path3917"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+       inkscape:export-xdpi="399.96387"
+       inkscape:export-ydpi="399.96387" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 437.7641,211.41019 0,88.2056 -101.69621,0"
+       id="path3927"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+       inkscape:export-xdpi="399.96387"
+       inkscape:export-ydpi="399.96387" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 427.50327,211.54027 44.95179,0"
+       id="path4919"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+       inkscape:export-xdpi="399.96387"
+       inkscape:export-ydpi="399.96387" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5103"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(120.90017,66.670068)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+       inkscape:export-xdpi="399.96387"
+       inkscape:export-ydpi="399.96387"><flowRegion
+         id="flowRegion5105"><rect
+           id="rect5107"
+           width="102.53049"
+           height="32.324883"
+           x="359.61432"
+           y="138.17413"
+           style="font-size:10px" /></flowRegion><flowPara
+         id="flowPara5109">Points suivis</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 12,331.6479 c -0.712646,22.12252 57.582467,-2.17902 57.933289,15.52676 0,-17.72388 58.186681,8.07782 57.933291,-15.52676"
+       id="path5111"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+       inkscape:export-xdpi="399.96387"
+       inkscape:export-ydpi="399.96387" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 159.64715,325.3867 c -0.9575,29.72332 136.1704,1.37351 136.1704,15.78796 0,-14.0077 136.1704,14.38682 136.1704,-15.78796"
+       id="path5111-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+       inkscape:export-xdpi="399.96387"
+       inkscape:export-ydpi="399.96387" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5103-2"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-317.47962,212.1548)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+       inkscape:export-xdpi="399.96387"
+       inkscape:export-ydpi="399.96387"><flowRegion
+         id="flowRegion5105-5"><rect
+           id="rect5107-2"
+           width="102.53049"
+           height="32.324883"
+           x="359.61432"
+           y="138.17413"
+           style="font-size:10px" /></flowRegion><flowPara
+         id="flowPara5109-1"
+         style="font-style:italic">Initialisation</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5103-2-8"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-88.833092,206.1548)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+       inkscape:export-xdpi="399.96387"
+       inkscape:export-ydpi="399.96387"><flowRegion
+         id="flowRegion5105-5-9"><rect
+           id="rect5107-2-0"
+           width="102.53049"
+           height="32.324883"
+           x="359.61432"
+           y="138.17413"
+           style="font-size:10px" /></flowRegion><flowPara
+         id="flowPara5109-1-6"
+         style="font-style:italic">Récurrence</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 230.02417,301.33407 -75.349,0 0,-65.55839"
+       id="path3056"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+       inkscape:export-xdpi="399.96387"
+       inkscape:export-ydpi="399.96387" />
+    <g
+       id="g4049"
+       transform="translate(-4.9617828,0)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+       inkscape:export-xdpi="399.96387"
+       inkscape:export-ydpi="399.96387">
+      <rect
+         ry="3.0796115"
+         rx="3.0796115"
+         y="194.30577"
+         x="203.25923"
+         height="37.239285"
+         width="102.59207"
+         id="rect3004-9"
+         style="fill:none;stroke:#000000;stroke-width:0.94999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(140.94121,1.8974116)"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3774-6"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3776-3"><rect
+             y="203.83405"
+             x="48.992397"
+             height="51.51778"
+             width="129.29953"
+             id="rect3778-4" /></flowRegion><flowPara
+           id="flowPara3782-5"
+           style="font-size:10px;text-align:center;text-anchor:middle">Suivi des points</flowPara></flowRoot>    </g>
+    <g
+       id="g4056"
+       transform="translate(2.4408102e-5,0)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+       inkscape:export-xdpi="399.96387"
+       inkscape:export-ydpi="399.96387">
+      <rect
+         ry="3.0795963"
+         rx="3.0795963"
+         y="194.30577"
+         x="324.51849"
+         height="37.239285"
+         width="102.59207"
+         id="rect3004-9-5"
+         style="fill:none;stroke:#000000;stroke-width:0.94999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(277.26453,-3.4925884)"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3774-6-1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3776-3-5"><rect
+             y="203.83405"
+             x="48.992397"
+             height="33.33503"
+             width="98.994957"
+             id="rect3778-4-1" /></flowRegion><flowPara
+           id="flowPara3782-5-8"
+           style="font-size:10px;text-align:center;text-anchor:middle">Vérification du critère de cohérence</flowPara></flowRoot>    </g>
+    <g
+       id="g4042"
+       transform="translate(-3.4017395,0)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+       inkscape:export-xdpi="399.96387"
+       inkscape:export-ydpi="399.96387">
+      <rect
+         ry="18.619644"
+         rx="18.619644"
+         y="194.30577"
+         x="139.6228"
+         height="37.239288"
+         width="38.447384"
+         id="rect3004-9-3"
+         style="fill:none;stroke:#000000;stroke-width:0.94999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(4.1667447,-3.9934383)"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot4034"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4036"><rect
+             style="font-size:22px"
+             y="202.31882"
+             x="146.97719"
+             height="27.779196"
+             width="32.324875"
+             id="rect4038" /></flowRegion><flowPara
+           style="font-size:22px"
+           id="flowPara4040">&amp;</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 174.29142,213.43049 18.66716,0"
+       id="path3917-2"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+       inkscape:export-xdpi="399.96387"
+       inkscape:export-ydpi="399.96387" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 300.54142,213.43049 18.66716,0"
+       id="path3917-27"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+       inkscape:export-xdpi="399.96387"
+       inkscape:export-ydpi="399.96387" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5103-2-4"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="matrix(1.7771812,0,0,1.7771812,-535.59049,-10.926472)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter3/graphics/tracking_process.png"
+       inkscape:export-xdpi="399.96387"
+       inkscape:export-ydpi="399.96387"><flowRegion
+         id="flowRegion5105-5-3"><rect
+           id="rect5107-2-9"
+           width="102.53049"
+           height="32.324883"
+           x="359.61432"
+           y="138.17413"
+           style="font-size:10px" /></flowRegion><flowPara
+         id="flowPara5109-1-0"
+         style="font-size:65.00091553%;font-style:normal;baseline-shift:sub"><flowSpan
+           id="flowSpan4184"><flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan4186">initialisation </flowSpan>1</flowSpan></flowPara></flowRoot>  </g>
+</svg>

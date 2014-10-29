@@ -1,0 +1,2348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="302.331mm"
+   height="275.872mm"
+   version="1.2"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="laser_model.svg">
+  <metadata
+     id="metadata642">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Qt Svg Document</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview640"
+     showgrid="false"
+     inkscape:zoom="0.9657296"
+     inkscape:cx="866.3992"
+     inkscape:cy="589.32261"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">Qt Svg Document</title>
+  <desc
+     id="desc6">Generated with Qt</desc>
+  <defs
+     id="defs8">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path4348"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path4962"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+  </defs>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#aeaeae;stroke-width:0.283465;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g14"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,393.15581,114.5453)">
+    <polyline
+       style="fill:none"
+       id="polyline16"
+       points="19.5484,781 19.5484,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline18"
+       points="61.4307,781 61.4307,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline20"
+       points="103.313,781 103.313,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline22"
+       points="145.195,781 145.195,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline24"
+       points="187.078,781 187.078,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline26"
+       points="228.96,781 228.96,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline28"
+       points="270.842,781 270.842,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline30"
+       points="312.725,781 312.725,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline32"
+       points="354.607,781 354.607,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline34"
+       points="396.49,781 396.49,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline36"
+       points="438.372,781 438.372,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline38"
+       points="480.254,781 480.254,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline40"
+       points="522.137,781 522.137,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline42"
+       points="564.019,781 564.019,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline44"
+       points="605.901,781 605.901,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline46"
+       points="647.784,781 647.784,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline48"
+       points="689.666,781 689.666,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline50"
+       points="731.548,781 731.548,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline52"
+       points="773.431,781 773.431,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline54"
+       points="815.313,781 815.313,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline56"
+       points="0,779.445 856,779.445 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline58"
+       points="0,736.013 856,736.013 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline60"
+       points="0,692.581 856,692.581 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline62"
+       points="0,649.149 856,649.149 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline64"
+       points="0,605.717 856,605.717 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline66"
+       points="0,562.285 856,562.285 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline68"
+       points="0,518.853 856,518.853 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline70"
+       points="0,475.42 856,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline72"
+       points="0,431.988 856,431.988 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline74"
+       points="0,388.556 856,388.556 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline76"
+       points="0,345.124 856,345.124 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline78"
+       points="0,301.692 856,301.692 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline80"
+       points="0,258.26 856,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline82"
+       points="0,214.828 856,214.828 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline84"
+       points="0,171.396 856,171.396 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline86"
+       points="0,127.964 856,127.964 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline88"
+       points="0,84.5315 856,84.5315 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline90"
+       points="0,41.0994 856,41.0994 "
+       vector-effect="none" />
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g12"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="translate(50,4)" />
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:#282828;fill-opacity:1;stroke:#282828;stroke-width:0.56692898;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g92"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,393.15581,114.5453)">
+    <polyline
+       style="fill:none"
+       id="polyline94"
+       points="1.41732,475.42 854.583,475.42 "
+       vector-effect="none" />
+    <path
+       style="fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       id="path96"
+       d="m 856,475.42 -5.556,1.985 0,-3.969 5.556,1.984"
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline98"
+       points="19.5484,779.583 19.5484,1.41732 "
+       vector-effect="none" />
+    <path
+       style="fill-rule:evenodd"
+       inkscape:connector-curvature="0"
+       id="path100"
+       d="m 19.5484,0 -1.9843,5.55591 3.9685,0 L 19.5484,0"
+       vector-effect="none" />
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#aeaeae;stroke-width:0.283465;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g102"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="translate(50,4)" />
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#282828;stroke-width:0.85039401;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g104"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,393.15581,114.5453)">
+    <polyline
+       style="fill:none"
+       id="polyline106"
+       points="19.5484,474.003 19.5484,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline108"
+       points="61.4307,474.003 61.4307,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline110"
+       points="103.313,474.003 103.313,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline112"
+       points="145.195,474.003 145.195,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline114"
+       points="187.078,474.003 187.078,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline116"
+       points="228.96,474.003 228.96,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline118"
+       points="270.842,474.003 270.842,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline120"
+       points="312.725,474.003 312.725,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline122"
+       points="354.607,474.003 354.607,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline124"
+       points="396.49,474.003 396.49,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline126"
+       points="438.372,474.003 438.372,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline128"
+       points="480.254,474.003 480.254,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline130"
+       points="522.137,474.003 522.137,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline132"
+       points="564.019,474.003 564.019,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline134"
+       points="605.901,474.003 605.901,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline136"
+       points="647.784,474.003 647.784,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline138"
+       points="689.666,474.003 689.666,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline140"
+       points="731.548,474.003 731.548,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline142"
+       points="773.431,474.003 773.431,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline144"
+       points="815.313,474.003 815.313,476.838 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline146"
+       points="18.131,779.445 20.9657,779.445 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline148"
+       points="18.131,736.013 20.9657,736.013 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline150"
+       points="18.131,692.581 20.9657,692.581 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline152"
+       points="18.131,649.149 20.9657,649.149 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline154"
+       points="18.131,605.717 20.9657,605.717 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline156"
+       points="18.131,562.285 20.9657,562.285 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline158"
+       points="18.131,518.853 20.9657,518.853 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline160"
+       points="18.131,475.42 20.9657,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline162"
+       points="18.131,431.988 20.9657,431.988 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline164"
+       points="18.131,388.556 20.9657,388.556 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline166"
+       points="18.131,345.124 20.9657,345.124 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline168"
+       points="18.131,301.692 20.9657,301.692 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline170"
+       points="18.131,258.26 20.9657,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline172"
+       points="18.131,214.828 20.9657,214.828 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline174"
+       points="18.131,171.396 20.9657,171.396 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline176"
+       points="18.131,127.964 20.9657,127.964 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline178"
+       points="18.131,84.5315 20.9657,84.5315 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline180"
+       points="18.131,41.0994 20.9657,41.0994 "
+       vector-effect="none" />
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#282828;stroke-width:0.85039401;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g182"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,393.15581,114.5453)">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#282828;fill-opacity:1;stroke:none;font-family:Ubuntu"
+       id="text184"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="493.40601"
+       x="840"
+       xml:space="preserve">X</text>
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#282828;fill-opacity:1;stroke:none;font-family:Ubuntu"
+       id="text186"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="18"
+       x="33.546902"
+       xml:space="preserve">Y</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1.40606994;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g188"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,423.77057,471.76322)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu;stroke-width:1.40606994;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text190"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+0.5</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1.40606994;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g192"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,485.66729,471.76322)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu;stroke-width:1.40606994;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text194"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+1.5</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1.40606994;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g196"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,547.56452,471.76322)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu;stroke-width:1.40606994;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text198"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+2.5</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1.40606994;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g200"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,609.46175,471.76322)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu;stroke-width:1.40606994;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text202"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+3.5</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1.40606994;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g204"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,671.35898,471.76322)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu;stroke-width:1.40606994;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text206"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+4.5</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1.40606994;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g208"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,733.25547,471.76322)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu;stroke-width:1.40606994;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text210"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+5.5</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1.40606994;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g212"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,795.1527,471.76322)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu;stroke-width:1.40606994;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text214"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+6.5</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1.40606994;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g216"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,857.04993,471.76322)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu;stroke-width:1.40606994;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text218"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+7.5</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1.40606994;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g220"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,918.94642,471.76322)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu;stroke-width:1.40606994;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text222"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+8.5</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1.40606994;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g224"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,980.84365,471.76322)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu;stroke-width:1.40606994;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text226"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+9.5</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g228"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,416.46815,649.54678)">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu"
+       id="text230"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">−1.2</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g232"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,416.46815,617.45318)">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu"
+       id="text234"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">−1.0</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g236"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,416.46815,585.35958)">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu"
+       id="text238"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">−0.8</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g240"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,416.46815,553.26598)">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu"
+       id="text242"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">−0.6</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g244"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,416.46815,521.17238)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu"
+       id="text246"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">−0.4</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1.40606994;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g248"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,416.46815,489.07878)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu;stroke-width:1.40606994;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text250"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">−0.2</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1.40606994;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g252"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,416.46815,424.89084)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu;stroke-width:1.40606994;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text254"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+0.2</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1.40606994;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g256"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,416.46815,392.79724)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu;stroke-width:1.40606994;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text258"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+0.4</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1.40606994;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g260"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,416.46815,360.70363)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu;stroke-width:1.40606994;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text262"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+0.6</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1.40606994;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g264"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,416.46815,328.61003)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu;stroke-width:1.40606994;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text266"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+0.8</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1.40606994;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g268"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,416.46815,296.51643)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu;stroke-width:1.40606994;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text270"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+1.0</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g272"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,416.46815,264.42283)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu"
+       id="text274"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+1.2</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g276"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,416.46815,232.32923)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu"
+       id="text278"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+1.4</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g280"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,416.46815,200.23563)">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu"
+       id="text282"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+1.6</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g284"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,416.46815,168.14166)">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu"
+       id="text286"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+1.8</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#141312;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g288"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,416.46815,136.04798)">
+    <text
+       style="font-size:8px;font-style:normal;font-weight:400;fill:#141312;fill-opacity:1;stroke:none;font-family:Ubuntu"
+       id="text290"
+       font-style="normal"
+       font-weight="400"
+       font-size="8"
+       y="17"
+       x="4"
+       xml:space="preserve">+2.0</text>
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#282828;stroke-width:0.85039401;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g292"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="translate(50,4)" />
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;stroke:#191970;stroke-width:1.25585458;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g294"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,393.15581,114.5453)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline296"
+       points="19.5484,475.42 292.248,474.927 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline298"
+       points="292.248,474.927 306.909,473.845 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline300"
+       points="306.909,473.845 316.683,472.231 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline302"
+       points="316.683,472.231 324.503,470.029 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline304"
+       points="324.503,470.029 331.345,467.126 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline306"
+       points="331.345,467.126 337.209,463.674 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline308"
+       points="337.209,463.674 343.074,459.107 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline310"
+       points="343.074,459.107 348.938,453.206 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline312"
+       points="348.938,453.206 354.803,445.756 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline314"
+       points="354.803,445.756 360.667,436.577 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline316"
+       points="360.667,436.577 366.532,425.545 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline318"
+       points="366.532,425.545 373.374,410.289 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline320"
+       points="373.374,410.289 381.193,389.904 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline322"
+       points="381.193,389.904 390.967,360.976 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline324"
+       points="390.967,360.976 410.516,301.352 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline326"
+       points="410.516,301.352 417.357,283.945 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline328"
+       points="417.357,283.945 422.245,273.777 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline330"
+       points="422.245,273.777 427.132,265.941 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline332"
+       points="427.132,265.941 431.041,261.561 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline334"
+       points="431.041,261.561 433.974,259.454 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline336"
+       points="433.974,259.454 436.906,258.393 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline338"
+       points="436.906,258.393 439.838,258.393 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline340"
+       points="439.838,258.393 442.77,259.454 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline342"
+       points="442.77,259.454 445.703,261.561 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline344"
+       points="445.703,261.561 449.612,265.941 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline346"
+       points="449.612,265.941 453.522,272.013 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline348"
+       points="453.522,272.013 458.409,281.742 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline350"
+       points="458.409,281.742 464.273,296.059 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline352"
+       points="464.273,296.059 472.093,318.378 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline354"
+       points="472.093,318.378 491.641,378.702 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline356"
+       points="491.641,378.702 500.438,402.992 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline358"
+       points="500.438,402.992 507.28,419.318 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline360"
+       points="507.28,419.318 514.122,433.109 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline362"
+       points="514.122,433.109 519.986,442.896 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline364"
+       points="519.986,442.896 525.851,450.904 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline366"
+       points="525.851,450.904 531.715,457.299 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline368"
+       points="531.715,457.299 537.58,462.287 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline370"
+       points="537.58,462.287 543.444,466.086 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline372"
+       points="543.444,466.086 550.286,469.307 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline374"
+       points="550.286,469.307 558.106,471.772 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline376"
+       points="558.106,471.772 566.902,473.463 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline378"
+       points="566.902,473.463 578.631,474.623 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline380"
+       points="578.631,474.623 596.225,475.242 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline382"
+       points="596.225,475.242 639.231,475.418 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline384"
+       points="639.231,475.418 856.218,475.42 "
+       vector-effect="none" />
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#282828;stroke-width:0.85039401;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g386"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="translate(50,4)" />
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;stroke:#25ba00;stroke-width:0.85039401;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g388"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,393.15581,114.5453)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <polyline
+       style="fill:none"
+       id="polyline390"
+       points="404.866,258.26 471.878,258.26 "
+       vector-effect="none" />
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#282828;stroke-width:0.85039401;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g392"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="translate(50,4)" />
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;stroke:#25ba00;stroke-width:0.85039401;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g394"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,393.15581,114.5453)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <polyline
+       style="fill:none"
+       id="polyline396"
+       points="19.5484,475.42 404.416,475.42 "
+       vector-effect="none" />
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#282828;stroke-width:0.85039401;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g398"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="translate(50,4)" />
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;stroke:#25ba00;stroke-width:0.85039401;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g400"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,393.15581,114.5453)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <polyline
+       style="fill:none"
+       id="polyline402"
+       points="471.878,475.42 856.746,475.42 "
+       vector-effect="none" />
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#282828;stroke-width:0.85039401;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g404"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="translate(50,4)" />
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;stroke:#25ba00;stroke-width:0.85039401;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g406"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,393.15581,114.5453)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <polyline
+       style="fill:none"
+       id="polyline408"
+       points="404.866,475.42 404.866,258.26 "
+       vector-effect="none" />
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#282828;stroke-width:0.85039401;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g410"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="translate(50,4)" />
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;stroke:#3cb400;stroke-width:1.25585458;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g412"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,393.15581,114.5453)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline414"
+       points="471.878,475.42 471.878,258.26 "
+       vector-effect="none" />
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#282828;stroke-width:0.85039401;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g416"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="translate(50,4)" />
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;stroke:#b30d0d;stroke-width:1.25585458;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g418"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,393.15581,114.5453)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline420"
+       points="19.5484,475.42 28.5406,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline422"
+       points="36.184,475.42 45.1763,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline424"
+       points="53.2693,475.42 62.2615,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline426"
+       points="70.3545,475.42 79.3468,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline428"
+       points="87.4398,475.42 96.432,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline430"
+       points="104.525,475.42 113.517,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline432"
+       points="121.161,475.42 130.153,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline434"
+       points="138.246,475.42 147.238,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline436"
+       points="155.331,475.42 164.323,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline438"
+       points="172.417,475.42 181.409,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline440"
+       points="189.502,475.42 198.494,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline442"
+       points="206.137,475.42 215.13,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline444"
+       points="223.223,475.42 232.215,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline446"
+       points="240.308,475.42 249.3,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline448"
+       points="257.393,475.42 266.385,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline450"
+       points="274.478,475.42 283.471,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline452"
+       points="291.114,475.42 300.106,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline454"
+       points="308.199,475.42 317.192,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline456"
+       points="325.285,475.42 334.277,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline458"
+       points="342.37,475.42 351.362,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline460"
+       points="359.455,475.42 368.447,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline462"
+       points="376.54,475.42 385.533,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline464"
+       points="393.176,475.42 402.168,475.42 "
+       vector-effect="none" />
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#282828;stroke-width:0.85039401;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g466"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="translate(50,4)" />
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;stroke:#b30d0d;stroke-width:1.25585458;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g468"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,393.15581,114.5453)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline470"
+       points="404.866,258.26 413.839,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline472"
+       points="421.756,258.26 430.729,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline474"
+       points="438.646,258.26 447.618,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline476"
+       points="455.535,258.26 464.508,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline478"
+       points="472.425,258.26 481.398,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline480"
+       points="489.843,258.26 498.815,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline482"
+       points="506.733,258.26 515.705,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline484"
+       points="523.622,258.26 532.595,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline486"
+       points="540.512,258.26 549.485,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline488"
+       points="557.402,258.26 566.375,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline490"
+       points="574.819,258.26 583.792,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline492"
+       points="591.709,258.26 600.682,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline494"
+       points="608.599,258.26 617.572,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline496"
+       points="625.489,258.26 634.461,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline498"
+       points="642.379,258.26 651.351,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline500"
+       points="659.796,258.26 668.769,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline502"
+       points="676.686,258.26 685.659,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline504"
+       points="693.576,258.26 702.548,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline506"
+       points="710.466,258.26 719.438,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline508"
+       points="727.355,258.26 736.856,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline510"
+       points="744.773,258.26 753.746,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline512"
+       points="761.663,258.26 770.635,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline514"
+       points="778.552,258.26 787.525,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline516"
+       points="795.442,258.26 804.415,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline518"
+       points="812.86,258.26 821.833,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline520"
+       points="829.75,258.26 838.722,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline522"
+       points="846.639,258.26 855.612,258.26 "
+       vector-effect="none" />
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#282828;stroke-width:0.85039401;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g524"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="translate(50,4)" />
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;stroke:#b30d0d;stroke-width:1.25585458;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g526"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,393.15581,114.5453)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline528"
+       points="404.866,475.42 404.866,466.422 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline530"
+       points="404.866,458.423 404.866,449.422 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline532"
+       points="404.866,441.422 404.866,432.422 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline534"
+       points="404.866,424.422 404.866,415.421 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline536"
+       points="404.866,407.422 404.866,398.421 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline538"
+       points="404.866,390.421 404.866,381.421 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline540"
+       points="404.866,373.421 404.866,364.423 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline542"
+       points="404.866,356.421 404.866,347.422 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline544"
+       points="404.866,339.423 404.866,330.422 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline546"
+       points="404.866,322.422 404.866,313.422 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline548"
+       points="404.866,305.422 404.866,296.421 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline550"
+       points="404.866,288.422 404.866,279.421 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline552"
+       points="404.866,271.421 404.866,262.421 "
+       vector-effect="none" />
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#282828;stroke-width:0.85039401;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g554"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="translate(50,4)" />
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;stroke:#b30d0d;stroke-width:1.25585458;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g556"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,393.15581,114.5453)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline558"
+       points="471.878,366.84 480.87,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline560"
+       points="487.614,366.84 491.211,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline562"
+       points="497.955,366.84 506.948,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline564"
+       points="514.141,366.84 517.738,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline566"
+       points="524.482,366.84 533.475,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline568"
+       points="540.668,366.84 544.265,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline570"
+       points="551.01,366.84 560.002,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline572"
+       points="567.196,366.84 570.792,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline574"
+       points="577.537,366.84 586.529,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline576"
+       points="593.723,366.84 597.32,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline578"
+       points="604.064,366.84 613.056,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline580"
+       points="620.25,366.84 623.847,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline582"
+       points="630.591,366.84 639.583,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline584"
+       points="646.777,366.84 650.374,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline586"
+       points="657.118,366.84 666.11,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline588"
+       points="673.304,366.84 676.451,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline590"
+       points="683.645,366.84 692.637,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline592"
+       points="699.831,366.84 702.978,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline594"
+       points="710.172,366.84 719.165,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline596"
+       points="726.358,366.84 729.506,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline598"
+       points="736.699,366.84 745.692,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline600"
+       points="752.436,366.84 756.033,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline602"
+       points="763.227,366.84 772.219,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline604"
+       points="778.963,366.84 782.56,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline606"
+       points="789.754,366.84 798.746,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline608"
+       points="805.49,366.84 809.087,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline610"
+       points="816.281,366.84 825.273,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline612"
+       points="832.017,366.84 835.614,366.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline614"
+       points="842.808,366.84 851.8,366.84 "
+       vector-effect="none" />
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#282828;stroke-width:0.85039401;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g616"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="translate(50,4)" />
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;stroke:#b30d0d;stroke-width:1.25585458;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g618"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,393.15581,114.5453)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708">
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline620"
+       points="471.878,366.84 471.878,357.841 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline622"
+       points="471.878,350.841 471.878,347.341 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline624"
+       points="471.878,340.341 471.878,331.341 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline626"
+       points="471.878,324.341 471.878,320.841 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline628"
+       points="471.878,313.841 471.878,304.84 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline630"
+       points="471.878,297.84 471.878,294.341 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline632"
+       points="471.878,287.341 471.878,278.34 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline634"
+       points="471.878,271.34 471.878,267.841 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none;stroke-width:1.25585458;stroke-miterlimit:4;stroke-dasharray:none"
+       id="polyline636"
+       points="471.878,260.841 471.878,258.261 "
+       vector-effect="none" />
+  </g>
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#282828;stroke-width:0.85039401;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g638"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="translate(50,4)" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4703"
+     width="15.791169"
+     height="6.1083884"
+     x="417.04221"
+     y="272.17862"
+     ry="1.8460336"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4703-0"
+     width="15.791169"
+     height="6.474484"
+     x="416.6539"
+     y="239.32413"
+     ry="1.9566724"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4703-8"
+     width="15.791169"
+     height="6.1083846"
+     x="417.68936"
+     y="207.59015"
+     ry="1.8460325" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4703-4"
+     width="15.791169"
+     height="4.918561"
+     x="417.43051"
+     y="176.93875"
+     ry="1.4864525" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4703-7"
+     width="15.791169"
+     height="4.918561"
+     x="416.91275"
+     y="144.83864"
+     ry="1.4864525" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4703-4-4"
+     width="15.791169"
+     height="4.918561"
+     x="421.36783"
+     y="175.92427"
+     ry="1.4864525" />
+  <g
+     style="font-size:8px;font-style:normal;font-weight:400;fill:none;stroke:#aeaeae;stroke-width:0.283465;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Ubuntu"
+     id="g14-3"
+     font-style="normal"
+     font-weight="400"
+     font-size="8"
+     transform="matrix(0.73893906,0,0,0.73893906,-193.58549,114.5453)">
+    <polyline
+       style="fill:none"
+       id="polyline16-8"
+       points="19.5484,781 19.5484,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline18-9"
+       points="61.4307,781 61.4307,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline20-8"
+       points="103.313,781 103.313,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline22-9"
+       points="145.195,781 145.195,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline24-3"
+       points="187.078,781 187.078,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline26-3"
+       points="228.96,781 228.96,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline28-4"
+       points="270.842,781 270.842,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline30-9"
+       points="312.725,781 312.725,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline32-9"
+       points="354.607,781 354.607,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline34-9"
+       points="396.49,781 396.49,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline36-4"
+       points="438.372,781 438.372,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline38-3"
+       points="480.254,781 480.254,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline40-4"
+       points="522.137,781 522.137,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline42-0"
+       points="564.019,781 564.019,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline44-8"
+       points="605.901,781 605.901,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline46-1"
+       points="647.784,781 647.784,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline48-5"
+       points="689.666,781 689.666,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline50-5"
+       points="731.548,781 731.548,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline52-6"
+       points="773.431,781 773.431,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline54-3"
+       points="815.313,781 815.313,0 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline56-4"
+       points="0,779.445 856,779.445 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline58-2"
+       points="0,736.013 856,736.013 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline60-2"
+       points="0,692.581 856,692.581 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline62-6"
+       points="0,649.149 856,649.149 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline64-7"
+       points="0,605.717 856,605.717 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline66-5"
+       points="0,562.285 856,562.285 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline68-8"
+       points="0,518.853 856,518.853 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline70-7"
+       points="0,475.42 856,475.42 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline72-1"
+       points="0,431.988 856,431.988 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline74-5"
+       points="0,388.556 856,388.556 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline76-3"
+       points="0,345.124 856,345.124 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline78-9"
+       points="0,301.692 856,301.692 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline80-4"
+       points="0,258.26 856,258.26 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline82-1"
+       points="0,214.828 856,214.828 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline84-1"
+       points="0,171.396 856,171.396 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline86-7"
+       points="0,127.964 856,127.964 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline88-4"
+       points="0,84.5315 856,84.5315 "
+       vector-effect="none" />
+    <polyline
+       style="fill:none"
+       id="polyline90-7"
+       points="0,41.0994 856,41.0994 "
+       vector-effect="none" />
+  </g>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4703-7-7"
+     width="15.791169"
+     height="4.918561"
+     x="418.59543"
+     y="139.89708"
+     ry="1.4864525" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect3933"
+     width="1250.3325"
+     height="206.59358"
+     x="-200.88745"
+     y="511.00385"
+     ry="1.4864525" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4912"
+     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     transform="translate(0,15.532298)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708"><flowRegion
+       id="flowRegion4914"><rect
+         id="rect4916"
+         width="213.31023"
+         height="33.135567"
+         x="419.88977"
+         y="263.01358"
+         style="font-size:14px" /></flowRegion><flowPara
+       id="flowPara4918">Probabilité d'occupation</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4912-8"
+     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     transform="translate(465.27579,179.15949)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708"><flowRegion
+       id="flowRegion4914-3"><rect
+         id="rect4916-9"
+         width="213.31023"
+         height="33.135567"
+         x="419.88977"
+         y="263.01358"
+         style="font-size:14px" /></flowRegion><flowPara
+       id="flowPara4918-4">Distance à l'origine du rayon</flowPara></flowRoot>  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+     d="m 407.56057,510.81359 0,-247.75802"
+     id="path4947"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4703-0-5"
+     width="1.7878889"
+     height="20.294783"
+     x="406.66663"
+     y="241.46758"
+     ry="1.9566724"
+     rx="0"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4912-5"
+     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+     transform="translate(247.86987,-2.299178)"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708"><flowRegion
+       id="flowRegion4914-7"><rect
+         id="rect4916-1"
+         width="213.31023"
+         height="33.135567"
+         x="419.88977"
+         y="263.01358"
+         style="font-size:14px" /></flowRegion><flowPara
+       id="flowPara4918-0">Point d'impact</flowPara></flowRoot>  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+     d="m 717.08061,276.47488 0,26.24787"
+     id="path3383"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/laser_model.png"
+     inkscape:export-xdpi="300.62708"
+     inkscape:export-ydpi="300.62708" />
+</svg>

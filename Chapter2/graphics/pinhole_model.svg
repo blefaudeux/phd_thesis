@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="pinhole_model.svg"
+   inkscape:export-filename="/home/benjamin/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+   inkscape:export-xdpi="200.02039"
+   inkscape:export-ydpi="200.02039">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path4052"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;">
+      <path
+         id="path3797"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient4408"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#146384;stop-opacity:1;"
+         offset="0"
+         id="stop4410" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3791"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3788"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4408"
+       id="linearGradient4412"
+       x1="263.09201"
+       y1="304.81339"
+       x2="328.33682"
+       y2="406.25885"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-8)" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3788-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3791-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="243.88023"
+     inkscape:cy="531.2209"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#146384;fill-opacity:0.13978493;stroke:url(#linearGradient4412);stroke-width:0.95261747;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3772"
+       width="250.2625"
+       height="240.4821"
+       x="190.91751"
+       y="212.55257"
+       rx="8.2331285"
+       ry="3.5365462"
+       transform="matrix(0.90452235,0.42642621,0,1,0,0)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-2);stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 31.314729,601.83415 526.81452,330.92253"
+       id="path3774"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff9f00;fill-opacity:1;stroke:#f3af38;stroke-width:0.90600002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4414"
+       sodipodi:sides="5"
+       sodipodi:cx="497.14285"
+       sodipodi:cy="233.79076"
+       sodipodi:r1="3.7164564"
+       sodipodi:r2="8.2130651"
+       sodipodi:arg1="1.1784143"
+       sodipodi:arg2="1.8067328"
+       inkscape:flatsided="true"
+       inkscape:rounded="1.4896841"
+       inkscape:randomized="0"
+       d="m 498.56399,237.22476 c -6.01373,2.48874 -0.0226,3.92909 -4.24792,-1.02125 -4.22527,-4.95034 -3.74377,1.19261 -0.3414,-4.3556 3.40237,-5.54822 -2.29114,-3.192 4.03692,-1.67065 6.32805,1.52136 2.32777,-3.16538 2.83635,3.32308 0.50859,6.48846 3.72979,1.23569 -2.28395,3.72442 z"
+       inkscape:transform-center-x="0.18000575"
+       inkscape:transform-center-y="-0.79662808"
+       transform="translate(68.586297,104.78535)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-45.062191,-15.788072)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4418"><rect
+           id="rect4420"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         id="flowPara4422"
+         style="font-size:18px">F</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 42,588.79075 217.85714,-120"
+       id="path4424"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 33.587572,595.52069 7.197337,7.19734"
+       id="path4794"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-3"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(54.323929,-80.94165)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4418-9"><rect
+           id="rect4420-0"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         id="flowPara4422-1"
+         style="font-size:18px">f</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1,1;stroke-dashoffset:0"
+       d="M 36.365492,598.29861 565.79056,339.5719"
+       id="path4853"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 36.710223,698.43337 0,-99.50003 92.176427,41.41625"
+       id="path3776"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 269.57433,554.98727 0,-82.83251 92.17642,41.41625"
+       id="path3776-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <g
+       id="g4875"
+       transform="translate(291.93409,170.71578)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4855"
+         d="m 47.032183,281.75309 7.879795,-9.13896"
+         style="fill:none;stroke:#000000;stroke-width:0.77865106px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4855-9"
+         d="M 54.911978,283.90142 47.032183,270.4658"
+         style="fill:none;stroke:#000000;stroke-width:0.77865106px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-3"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(448.9815,-297.14151)"><flowRegion
+         id="flowRegion4418-3-1"><rect
+           id="rect4420-1-8"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px"
+         id="flowPara4906-4" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(213.16479,-62.81194)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4418-3-2-9"><rect
+           id="rect4420-1-5-9"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8">v</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-6"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(289.83391,-90.846802)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4418-3-2-9-1"><rect
+           id="rect4420-1-5-9-2"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8-1">u</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-2"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(58.196133,33.01678)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4418-3-2-9-8"><rect
+           id="rect4420-1-5-9-6"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8-3">x</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-2-7"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-42.370757,82.29369)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4418-3-2-9-8-9"><rect
+           id="rect4420-1-5-9-6-0"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8-3-2">y</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-2-78"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(53.343523,-51.42058)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4418-3-2-9-8-1"><rect
+           id="rect4420-1-5-9-6-7"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8-3-4">z</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5293"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(163.57142,370.71429)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion5295"><rect
+           id="rect5297"
+           width="160.71428"
+           height="51.42857"
+           x="173.57143"
+           y="272.36218"
+           style="font-size:11px" /></flowRegion><flowPara
+         id="flowPara5299"
+         style="font-size:13px;font-style:italic">Plan image</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5293-8"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-213.51928,302.63929)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion5295-2"><rect
+           id="rect5297-5"
+           width="160.71428"
+           height="51.42857"
+           x="173.57143"
+           y="272.36218"
+           style="font-size:11px" /></flowRegion><flowPara
+         id="flowPara5299-7"
+         style="font-size:13px;font-style:italic">Point focal</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5293-8-9"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-123.29205,100.9625)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion5295-2-0"><rect
+           id="rect5297-5-5"
+           width="160.71428"
+           height="51.42857"
+           x="173.57143"
+           y="272.36218"
+           style="font-size:13px" /></flowRegion><flowPara
+         id="flowPara5299-7-4"
+         style="font-style:italic">Distance focale</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend-2)"
+       d="m 94.714335,391.98718 0,161.42858"
+       id="path5355"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-2-78-2"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(513.9834,-281.56988)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4418-3-2-9-8-1-1"><rect
+           id="rect4420-1-5-9-6-7-0"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8-3-4-0">M</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 37.321429,598.96932 79.464281,-43.75"
+       id="path3055"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-1"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(210.90534,-162.27538)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4418-3-2-9-7"><rect
+           id="rect4420-1-5-9-4"
+           width="29.285715"
+           height="29.285715"
+           x="61.42857"
+           y="605.2193" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+         id="flowPara5179-8-7">()</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3099"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Ubuntu;font-style:normal;font-weight:normal;font-size:8px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Ubuntu;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3101"><rect
+           id="rect3103"
+           width="41.42857"
+           height="25.357143"
+           x="303.92856"
+           y="473.07648" /></flowRegion><flowPara
+         id="flowPara3105" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-5"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+       transform="matrix(0.7078723,0,0,0.7078723,174.37949,-99.7282)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4418-3-2-9-9"><rect
+           id="rect4420-1-5-9-63"
+           width="77.14286"
+           height="71.071419"
+           x="61.42857"
+           y="605.2193"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+         id="flowPara5179-8-0">u<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan3134">0</flowSpan></flowPara></flowRoot>    <g
+       id="g4875-1"
+       transform="translate(129.02792,33.32143)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4855-7"
+         d="m 47.032183,281.75309 7.879795,-9.13896"
+         style="fill:none;stroke:#000000;stroke-width:0.77865106px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4855-9-4"
+         d="M 54.911978,283.90142 47.032183,270.4658"
+         style="fill:none;stroke:#000000;stroke-width:0.77865106px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart-3);marker-end:url(#Arrow1Mend-2);stroke-miterlimit:4;stroke-dasharray:1,1;stroke-dashoffset:0"
+       d="m 180.31223,310.40514 88.38835,40.4061"
+       id="path3075"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart-3);marker-end:url(#Arrow1Mend-2);stroke-miterlimit:4;stroke-dasharray:1,1;stroke-dashoffset:0"
+       d="m 180.31222,311.41529 0,129.69181"
+       id="path3075-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4416-2-5-5-5-9"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+       transform="matrix(0.7078723,0,0,0.7078723,139.25638,-62.882737)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter2/graphics/pinhole_model.png"
+       inkscape:export-xdpi="200.63"
+       inkscape:export-ydpi="200.63"><flowRegion
+         id="flowRegion4418-3-2-9-9-1"><rect
+           id="rect4420-1-5-9-63-6"
+           width="77.14286"
+           height="71.071419"
+           x="61.42857"
+           y="605.2193"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+         id="flowPara5179-8-0-7">v<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan3134-6">0</flowSpan></flowPara></flowRoot>  </g>
+</svg>

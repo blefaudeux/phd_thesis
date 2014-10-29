@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="overall_scheme_ego.svg"
+   inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter4/graphics/overall_scheme_ego.png"
+   inkscape:export-xdpi="200.5"
+   inkscape:export-ydpi="200.5">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3917"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3917-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-43"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3917-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="223.87192"
+     inkscape:cy="540.69348"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="1600"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5923"
+       width="79.408264"
+       height="79.408249"
+       x="-68.940437"
+       y="701.10583"
+       ry="6.4473424"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter4/graphics/overall_scheme_ego.png"
+       inkscape:export-xdpi="200.64372"
+       inkscape:export-ydpi="200.64372" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3774"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-7.5015514,50.632418)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter4/graphics/overall_scheme_ego.png"
+       inkscape:export-xdpi="200.64372"
+       inkscape:export-ydpi="200.64372"><flowRegion
+         id="flowRegion3776"><rect
+           id="rect3778"
+           width="81.785713"
+           height="52.142857"
+           x="103.92857"
+           y="275.57648"
+           style="font-size:14px" /></flowRegion><flowPara
+         id="flowPara3780"
+         style="font-size:14px;text-align:center;text-anchor:middle">Initialisation des poids</flowPara></flowRoot>    <g
+       id="g3866"
+       transform="translate(0,-35.283943)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter4/graphics/overall_scheme_ego.png"
+       inkscape:export-xdpi="200.64372"
+       inkscape:export-ydpi="200.64372">
+      <rect
+         ry="4.712503"
+         y="346.64789"
+         x="248.21428"
+         height="74.285713"
+         width="100"
+         id="rect3004-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(152.78416,89.420296)"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3774-2"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3776-2"><rect
+             style="font-size:14px"
+             y="275.57648"
+             x="103.92857"
+             height="52.142857"
+             width="81.785713"
+             id="rect3778-3" /></flowRegion><flowPara
+           style="font-size:14px;text-align:center;text-anchor:middle"
+           id="flowPara3780-0">Calcul SVD pondérée</flowPara></flowRoot>    </g>
+    <g
+       id="g3873"
+       transform="translate(11.214287,-38.164863)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter4/graphics/overall_scheme_ego.png"
+       inkscape:export-xdpi="200.64372"
+       inkscape:export-ydpi="200.64372">
+      <rect
+         ry="4.712503"
+         y="349.52881"
+         x="441.94427"
+         height="74.285713"
+         width="100"
+         id="rect3004-58"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(346.75915,83.551213)"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3774-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3776-6"><rect
+             style="font-size:14px"
+             y="275.57648"
+             x="103.92857"
+             height="52.142857"
+             width="81.785713"
+             id="rect3778-1" /></flowRegion><flowPara
+           style="font-size:14px;text-align:center;text-anchor:middle"
+           id="flowPara3780-5">Recalage des nuages de points</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3774-8"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(358.24359,249.70157)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter4/graphics/overall_scheme_ego.png"
+       inkscape:export-xdpi="200.64372"
+       inkscape:export-ydpi="200.64372"><flowRegion
+         id="flowRegion3776-1"><rect
+           id="rect3778-7"
+           width="81.785713"
+           height="52.142857"
+           x="103.92857"
+           y="275.57648"
+           style="font-size:14px" /></flowRegion><flowPara
+         id="flowPara3780-9"
+         style="font-size:14px;text-align:center;text-anchor:middle">Qualité du recalage ?</flowPara></flowRoot>    <g
+       id="g3887"
+       transform="translate(-6.3467102,16.411913)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter4/graphics/overall_scheme_ego.png"
+       inkscape:export-xdpi="200.64372"
+       inkscape:export-ydpi="200.64372">
+      <rect
+         ry="4.712503"
+         y="490.95016"
+         x="254.56099"
+         height="74.285713"
+         width="100"
+         id="rect3004-9"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(159.17287,224.95157)"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3774-9"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3776-13"><rect
+             style="font-size:14px"
+             y="275.57648"
+             x="103.92857"
+             height="52.142857"
+             width="81.785713"
+             id="rect3778-35" /></flowRegion><flowPara
+           style="font-size:14px;text-align:center;text-anchor:middle"
+           id="flowPara3780-4">Calcul des poids (Tukey Biweight)</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 503.15856,385.64966 10e-6,97.06555"
+       id="path4906"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g3873"
+       inkscape:connection-start-point="d4"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter4/graphics/overall_scheme_ego.png"
+       inkscape:export-xdpi="200.64372"
+       inkscape:export-ydpi="200.64372"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 503.47771,598.30471 0,74.50315"
+       id="path5278"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter4/graphics/overall_scheme_ego.png"
+       inkscape:export-xdpi="200.64372"
+       inkscape:export-ydpi="200.64372" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5472"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(226.01275,78.852813)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter4/graphics/overall_scheme_ego.png"
+       inkscape:export-xdpi="200.64372"
+       inkscape:export-ydpi="200.64372"><flowRegion
+         id="flowRegion5474"><rect
+           id="rect5476"
+           width="99.500015"
+           height="45.182034"
+           x="235.87062"
+           y="601.32904" /></flowRegion><flowPara
+         style="font-size:14px;font-style:italic;font-weight:bold;text-align:center;text-anchor:middle"
+         id="flowPara5925">Ego-motion estimé</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5472-4"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(150.45741,-71.442906)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter4/graphics/overall_scheme_ego.png"
+       inkscape:export-xdpi="200.64372"
+       inkscape:export-ydpi="200.64372"><flowRegion
+         id="flowRegion5474-3"><rect
+           id="rect5476-5"
+           width="99.500023"
+           height="32.324883"
+           x="235.87062"
+           y="601.32904" /></flowRegion><flowPara
+         id="flowPara5478-0"
+         style="font-size:11px">Insuffisante</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5472-4-9"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(220.9507,-3.026771)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter4/graphics/overall_scheme_ego.png"
+       inkscape:export-xdpi="200.64372"
+       inkscape:export-ydpi="200.64372"><flowRegion
+         id="flowRegion5474-3-9"><rect
+           id="rect5476-5-2"
+           width="99.500023"
+           height="32.324883"
+           x="235.87062"
+           y="601.32904" /></flowRegion><flowPara
+         id="flowPara5478-0-4"
+         style="font-size:11px">Correcte</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 186.42857,345.00287 49.28571,0"
+       id="path5734"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter4/graphics/overall_scheme_ego.png"
+       inkscape:export-xdpi="200.64372"
+       inkscape:export-ydpi="200.64372" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 298.21428,507.4736 0,-116.30503"
+       id="path3805"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter4/graphics/overall_scheme_ego.png"
+       inkscape:export-xdpi="200.64372"
+       inkscape:export-ydpi="200.64372" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 347.82932,345.00287 99.21275,0"
+       id="path3805-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter4/graphics/overall_scheme_ego.png"
+       inkscape:export-xdpi="200.64372"
+       inkscape:export-ydpi="200.64372" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 449.19865,544.50493 -94.7062,0"
+       id="path5278-1"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter4/graphics/overall_scheme_ego.png"
+       inkscape:export-xdpi="200.64372"
+       inkscape:export-ydpi="200.64372" />
+  </g>
+</svg>

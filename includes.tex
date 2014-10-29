@@ -1,0 +1,60 @@
+\usepackage[T1]{fontenc}
+\usepackage[normalem]{ulem} 
+\usepackage[french]{babel}
+\usepackage[cyr]{aeguill}
+
+\usepackage{verbatim}
+
+%\usepackage{fancyhdr}					% Change header/bottom
+%\pagestyle{fancy}
+%\lhead{}
+%\chead{}
+%\rhead{}
+%\lfoot{}
+%\cfoot{\thepage}
+%\rfoot{}
+
+%\pagestyle{plain}								% Put page numbers in foot part
+
+\usepackage[utf8]{inputenc}			% UTF-8 file encoding
+\usepackage{amssymb, amsmath}		% Deal with equations
+
+\usepackage{xspace}
+\usepackage[hidelinks]{hyperref} 	% Make table of contents
+
+\usepackage{pbox}									% Multi-lines arrays
+\usepackage[toc,page]{appendix}		% Handle appendix
+
+\usepackage{bbm} 									% Math group letters
+
+\usepackage{graphicx} % Import pictures
+%\usepackage{subfig}		% Make subfigures
+
+\usepackage{caption}
+\usepackage{subcaption}
+
+\usepackage{pdfpages} % Import PDF
+\usepackage{float}
+
+%\usepackage{natbib}		% change citation style
+\usepackage{cite}
+
+\setcounter{secnumdepth}{3}
+
+\usepackage[nottoc]{tocbibind}	% Add list of figures and list of tables to the TOC
+
+\usepackage{minitoc}		% Add table of contents at the beginning of the chapter
+\mtcselectlanguage{french}
+
+%\usepackage[margin=34mm]{geometry} % Change margins
+
+\usepackage{ifthen}
+ 
+\newcommand{\newevenside}{
+	\ifthenelse{\isodd{\thepage}}{\newpage}{
+	\newpage
+        \phantom{placeholder} % doesn't appear on page
+	\thispagestyle{empty} % if want no header/footer
+	\newpage
+	}
+}

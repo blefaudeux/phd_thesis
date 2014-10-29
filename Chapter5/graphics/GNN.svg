@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="GNN.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path4000"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4000-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4000-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4000-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4000-15"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4000-41"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4000-18"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9669471"
+     inkscape:cx="-354.56485"
+     inkscape:cy="1153.911"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-opacity:1"
+       id="rect3004-9-8-0-6-0"
+       width="163.3203"
+       height="70.591408"
+       x="-288.95407"
+       y="81.590584"
+       ry="4.712503"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3774-5-7-5-1-9"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-326.49781,-33.653914)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5"><flowRegion
+         id="flowRegion3776-7-1-2-0-4"><rect
+           id="rect3778-8-1-1-5-2"
+           width="158.79738"
+           height="63.533127"
+           x="38.385796"
+           y="123.02184"
+           style="font-size:14px" /></flowRegion><flowPara
+         id="flowPara3780-7-6-5-3-0"
+         style="font-style:italic;text-align:center;text-anchor:middle">cardinal(Cibles<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan5194">Suivies</flowSpan>) &gt; 0 ?</flowPara><flowPara
+         style="text-align:center;text-anchor:middle"
+         id="flowPara5156-2">supression des cibles trop anciennes</flowPara></flowRoot>    <g
+       id="g4439"
+       transform="translate(-72.392822,-1.9180756)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5">
+      <rect
+         ry="4.712503"
+         y="-225.59305"
+         x="-950.32324"
+         height="70.591408"
+         width="163.3203"
+         id="rect3004"
+         style="fill:none;stroke:#000000;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(-971.88157,-330.92554)"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3774"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3776"><rect
+             style="font-size:14px"
+             y="123.02184"
+             x="38.385796"
+             height="58.336979"
+             width="128.86699"
+             id="rect3778" /></flowRegion><flowPara
+           style="text-align:center;text-anchor:middle"
+           id="flowPara3780">Calcul de la matrice de distance</flowPara></flowRoot>    </g>
+    <g
+       id="g4458"
+       transform="translate(-49.034668,-2.4999963e-8)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5">
+      <rect
+         ry="4.712503"
+         y="-227.51112"
+         x="-767.70209"
+         height="70.591408"
+         width="163.3203"
+         id="rect3004-9"
+         style="fill:none;stroke:#000000;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(-789.26041,-332.84362)"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3774-5"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3776-7"><rect
+             style="font-size:14px"
+             y="123.02184"
+             x="38.385796"
+             height="58.336979"
+             width="128.86699"
+             id="rect3778-8" /></flowRegion><flowPara
+           style="text-align:center;text-anchor:middle"
+           id="flowPara3780-7">Sélection d'un minimum global</flowPara></flowRoot>    </g>
+    <g
+       id="g4803"
+       transform="translate(1.347168,0)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5">
+      <rect
+         ry="4.712503"
+         y="-227.51112"
+         x="-612.10461"
+         height="70.591408"
+         width="163.3203"
+         id="rect3004-9-8"
+         style="fill:none;stroke:#000000;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(-651.27284,-334.05462)"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3774-5-7"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3776-7-1"><rect
+             style="font-size:14px"
+             y="123.02184"
+             x="38.385796"
+             height="143.16519"
+             width="163.96831"
+             id="rect3778-8-1" /></flowRegion><flowPara
+           style="text-align:center;text-anchor:middle"
+           id="flowPara3780-7-6">Mise à jour de la cible correspondante</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3774-6"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-1087.4739,-417.62302)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5"><flowRegion
+         id="flowRegion3776-9"><rect
+           id="rect3778-7"
+           width="110.58504"
+           height="65.649765"
+           x="38.385796"
+           y="123.02184"
+           style="font-size:14px" /></flowRegion><flowPara
+         id="flowPara3780-9"
+         style="text-align:center;text-anchor:middle">Cibles<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan3943">suivies</flowSpan><flowSpan
+   id="flowSpan5230"
+   style="font-size:65.00091553%;font-weight:bold;baseline-shift:super">k-1</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3774-6-4"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-991.65502,-417.63702)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5"><flowRegion
+         id="flowRegion3776-9-4"><rect
+           id="rect3778-7-3"
+           width="124.47932"
+           height="48.099098"
+           x="38.385796"
+           y="123.02184"
+           style="font-size:14px" /></flowRegion><flowPara
+         id="flowPara3780-9-4"
+         style="text-align:center;text-anchor:middle">Cibles<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan3945">GMPHD</flowSpan><flowSpan
+   id="flowSpan5234"
+   style="font-size:65%;baseline-shift:super;font-weight:bold">k</flowSpan></flowPara></flowRoot>    <g
+       id="g4472"
+       transform="translate(208.00007,-1.7712991)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5">
+      <rect
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+         ry="4.712503"
+         y="-423.69183"
+         x="-154.36316"
+         height="104.33701"
+         width="104.33698"
+         id="rect3914"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(-429.0471,-339.82934)"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="flowRoot3774-6-7"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3776-9-0"><rect
+             style="font-size:14px"
+             y="123.02184"
+             x="38.385796"
+             height="65.649765"
+             width="110.58504"
+             id="rect3778-7-9" /></flowRegion><flowPara
+           style="text-align:center;text-anchor:middle"
+           id="flowPara3780-9-3">Cibles<flowSpan
+   id="flowSpan3943-3"
+   style="font-size:65.00091553%;baseline-shift:sub">suivies</flowSpan><flowSpan
+   id="flowSpan3983"
+   style="font-weight:bold"> et</flowSpan> Cibles<flowSpan
+   id="flowSpan3981"
+   style="font-size:65.00091553%;baseline-shift:sub">GMPHD</flowSpan> restantes ?</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m -126.96921,-120.32916 0,62.679501 -713.88228,0 0,-127.323881"
+       id="path3985"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4431"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-766.0618,-333.4626)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5"><flowRegion
+         id="flowRegion4433"><rect
+           id="rect4435"
+           width="57.039654"
+           height="35.832603"
+           x="648.64325"
+           y="217.24313" /></flowRegion><flowPara
+         id="flowPara4437"
+         style="font-size:12px">Oui</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m -858.88877,-192.21542 35.16222,0"
+       id="path4484"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m -653.6385,-192.21542 35.16222,0"
+       id="path4484-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m -448.3014,-192.21542 35.16222,0"
+       id="path4484-6-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4431-9"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-705.44552,-443.68944)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5"><flowRegion
+         id="flowRegion4433-0"><rect
+           id="rect4435-1"
+           width="57.039654"
+           height="35.832603"
+           x="648.64325"
+           y="217.24313" /></flowRegion><flowPara
+         id="flowPara4437-9"
+         style="font-size:12px">Non</flowPara></flowRoot>    <rect
+       style="fill:none;stroke:#000000;stroke-opacity:1"
+       id="rect3004-9-8-0"
+       width="163.3203"
+       height="70.591408"
+       x="-404.77814"
+       y="-227.51112"
+       ry="4.712503"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3774-5-7-5"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-444.07936,-334.05462)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5"><flowRegion
+         id="flowRegion3776-7-1-2"><rect
+           id="rect3778-8-1-1"
+           width="163.96831"
+           height="143.16519"
+           x="38.385796"
+           y="123.02184"
+           style="font-size:14px" /></flowRegion><flowPara
+         id="flowPara3780-7-6-5"
+         style="text-align:center;text-anchor:middle">Extraction des deux cibles appariées</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m -241.6266,-192.21542 35.16222,0"
+       id="path4484-6-2-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m -993.57035,-272.38705 0,35.1622"
+       id="path4484-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m -890.88743,-272.38705 0,35.1622"
+       id="path4484-0-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m -54.870709,-192.21542 35.16222,0 0.158782,206.843989 -92.377363,0.390967"
+       id="path4484-6-2-2-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-4)"
+       d="m -19.549707,10.557316 0,106.918584 -92.377363,-0.94018"
+       id="path4920"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-opacity:1"
+       id="rect3004-9-8-0-6"
+       width="163.3203"
+       height="70.591408"
+       x="-289.77472"
+       y="-22.079033"
+       ry="4.712503"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3774-5-7-5-1"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-329.07593,-136.11253)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5"><flowRegion
+         id="flowRegion3776-7-1-2-0"><rect
+           id="rect3778-8-1-1-5"
+           width="163.96831"
+           height="143.16519"
+           x="38.385796"
+           y="123.02184"
+           style="font-size:14px" /></flowRegion><flowPara
+         id="flowPara3780-7-6-5-3"
+         style="font-style:italic;text-align:center;text-anchor:middle">cardinal(Cibles<flowSpan
+   style="font-size:65.00091553%;font-style:italic;baseline-shift:sub"
+   id="flowSpan5146">GMPHD</flowSpan>) &gt; 0 ?</flowPara><flowPara
+         style="text-align:center;text-anchor:middle"
+         id="flowPara5156">création de nouvelles cibles</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3774-6-41"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-501.72076,-70.868958)"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5"><flowRegion
+         id="flowRegion3776-9-47"><rect
+           id="rect3778-7-8"
+           width="110.58504"
+           height="65.649765"
+           x="38.385796"
+           y="123.02184"
+           style="font-size:14px" /></flowRegion><flowPara
+         id="flowPara3780-9-45"
+         style="text-align:center;text-anchor:middle">Cibles<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan3943-5">suivies</flowSpan><flowSpan
+   id="flowSpan5230-8"
+   style="font-size:65.00091553%;font-weight:bold;baseline-shift:super">k</flowSpan></flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -294.40533,15.019536 -32.17621,0 0,101.516184 31.44494,0"
+       id="path5269"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-4)"
+       d="m -326.88067,61.480995 -30.71366,0"
+       id="path5271"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/GNN.png"
+       inkscape:export-xdpi="200.5"
+       inkscape:export-ydpi="200.5" />
+  </g>
+</svg>

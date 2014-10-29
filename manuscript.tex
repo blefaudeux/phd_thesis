@@ -1,0 +1,78 @@
+
+\documentclass[11pt, a4paper]{book}
+
+\input{includes}
+
+\begin{document}
+\sloppy																% Relax interwords space constraints to prevent bleeding into margins
+
+\includepdf{../Template/Mines_Premiere.pdf}
+
+\cleardoublepage
+
+\vspace*{5cm}
+\hfill \og Being ignorant is not so much a shame,
+
+\hfill as being unwilling to learn.\fg{}
+
+\hfill \textbf{Benjamin Franklin}\\
+\clearpage 
+
+\section*{Remerciements}
+\input{Remerciements/remerciements.tex}
+\clearpage
+
+\setcounter{tocdepth}{2}
+
+\dominitoc
+\tableofcontents
+\addtocontents{toc}{~\hfill\textbf{Page}\par}
+\clearpage
+
+\listoffigures
+\mtcaddchapter
+\clearpage
+
+
+\chapter{Introduction}
+\label{sec:ch1}
+\input{Chapter1/chapter1.tex}
+
+\chapter{État de l'Art}
+\label{sec:ch2}
+\input{Chapter2/chapter2.tex}
+
+\chapter{Acquisition des indices visuels} 
+\label{sec:ch3}
+\input{Chapter3/chapter3.tex}
+
+\chapter{Odométrie visuelle, reconstruction 3D} 
+\label{sec:ch4}
+\input{Chapter4/chapter4.tex}
+
+\chapter{Détection, localisation, suivi des objets mobiles} 
+\label{sec:ch5}
+\input{Chapter5/chapter5.tex}
+
+\chapter{Résultats et évaluation}
+\label{sec:ch6}
+\input{Chapter6/chapter6.tex}
+
+\chapter{Conclusion et Perspectives}
+\input{Conclusion/conclusion.tex}
+
+\begin{appendices}
+	\chapter{Glossaire}
+	\input{Glossaire/glossaire.tex}
+	
+	\input{Annexe/annexe.tex}
+\end{appendices}
+
+\bibliographystyle{apalike}
+\bibliography{../../../../Documents/Bibliography/library.bib}
+\newevenside
+\clearpage
+\clearpage
+\clearpage
+\includepdf[pages=1]{../Template/Mines_Quatrieme.pdf}
+\end{document}

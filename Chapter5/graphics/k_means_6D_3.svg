@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="k_means_6D_3.svg"
+   inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter5/graphics/k_means_6D_3.png"
+   inkscape:export-xdpi="100.00348"
+   inkscape:export-ydpi="100.00348">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="346.17596"
+     inkscape:cy="1877.6091"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1226"
+     inkscape:window-height="889"
+     inkscape:window-x="141"
+     inkscape:window-y="75"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3819" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3825" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3819-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3819"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3821"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend5"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend5"
+       style="overflow:visible">
+      <path
+         id="path3046"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend9"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend9"
+       style="overflow:visible">
+      <path
+         id="path3043"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend9s"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend9s"
+       style="overflow:visible">
+      <path
+         id="path3854"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="stroke-width:1pt;stroke:#000000;fill-rule:evenodd;fill:#000000"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend5r"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend5r"
+       style="overflow:visible">
+      <path
+         id="path3857"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="stroke-width:1pt;stroke:#000000;fill-rule:evenodd;fill:#000000"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       sodipodi:insensitive="true"
+       ry="3.2830157"
+       y="-1157.6378"
+       x="-221.42857"
+       height="912.85712"
+       width="1138.5714"
+       id="rect3030"
+       style="opacity:0.35295081;fill:#ac9393;fill-opacity:1;stroke:#ffffff;stroke-width:1.42900002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       sodipodi:insensitive="true"
+       ry="5.7440457"
+       y="92.362183"
+       x="-222.85715"
+       height="901.42859"
+       width="1115.7142"
+       id="rect3025"
+       style="fill:#cfc4c4;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       ry="5.7440457"
+       y="-929.10516"
+       x="377.39926"
+       height="190.00002"
+       width="167.14285"
+       id="rect4863"
+       style="fill:none;stroke:#ff4e73;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       ry="5.7440457"
+       y="-697.67657"
+       x="258.54214"
+       height="191.42857"
+       width="232.85715"
+       id="rect4865"
+       style="fill:none;stroke:#4e8eff;stroke-width:3;stroke-miterlimit:4;stroke-opacity:0.99607843;stroke-dasharray:none;stroke-dashoffset:0" />
+    <flowRoot
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       id="flowRoot4700-7-2"
+       xml:space="preserve"
+       transform="translate(93.489063,-1154.5242)"><flowRegion
+         id="flowRegion4702-7-0"><rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           y="186.66145"
+           x="411.13208"
+           height="73.741135"
+           width="224.25386"
+           id="rect4704-7-5" /></flowRegion><flowPara
+         style="font-size:20px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="flowPara4706-1-8">K-Means ++</flowPara></flowRoot>    <path
+       sodipodi:type="arc"
+       style="fill:#4e8eff;fill-opacity:1;stroke:#4e8eff;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-16"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="9.4380035"
+       sodipodi:ry="9.4380035"
+       d="m 309.45332,374.54984 a 9.4380035,9.4380035 0 1 1 -18.876,0 9.4380035,9.4380035 0 1 1 18.876,0 z"
+       transform="translate(130.85576,-933.52683)"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="matrix(-1,0,0,1,784.01927,-1164.4179)"
+       sodipodi:type="arc"
+       style="fill:#ff4e73;fill-opacity:1;stroke:#ff4e73;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-4-83"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="7.0710688"
+       sodipodi:ry="7.0710688"
+       d="m 307.08639,374.54984 a 7.0710688,7.0710688 0 1 1 -14.14214,0 7.0710688,7.0710688 0 1 1 14.14214,0 z"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="stroke-linejoin:miter;marker-end:url(#Arrow1Lend9s);stroke-opacity:1;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-width:1px;fill:#000000"
+       d="m 66.030751,-707.79981 571.746319,0"
+       id="path3808-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="stroke-linejoin:miter;marker-end:url(#Arrow1Lend5r);stroke-opacity:1;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-width:1px;fill:#000000"
+       d="m 140.81255,-484.1302 0,-592.6354"
+       id="path3810-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#4e8eff;fill-opacity:1;stroke:#4e8eff;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-2-2"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="9.4380035"
+       sodipodi:ry="9.4380035"
+       d="m 309.45332,374.54984 a 9.4380035,9.4380035 0 1 1 -18.876,0 9.4380035,9.4380035 0 1 1 18.876,0 z"
+       transform="translate(-9.5351586,-1017.3318)"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#4e8eff;fill-opacity:1;stroke:#4e8eff;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-1-3"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="9.4380035"
+       sodipodi:ry="9.4380035"
+       d="m 309.45332,374.54984 a 9.4380035,9.4380035 0 1 1 -18.876,0 9.4380035,9.4380035 0 1 1 18.876,0 z"
+       transform="translate(22.177001,-974.40143)"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#4e8eff;fill-opacity:1;stroke:#4e8eff;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-5-5"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="9.4380035"
+       sodipodi:ry="9.4380035"
+       d="m 309.45332,374.54984 a 9.4380035,9.4380035 0 1 1 -18.876,0 9.4380035,9.4380035 0 1 1 18.876,0 z"
+       transform="translate(82.737541,-1045.0971)"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#4e8eff;fill-opacity:1;stroke:#4e8eff;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-51-4"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="9.4380035"
+       sodipodi:ry="9.4380035"
+       d="m 309.45332,374.54984 a 9.4380035,9.4380035 0 1 1 -18.876,0 9.4380035,9.4380035 0 1 1 18.876,0 z"
+       transform="translate(122.7126,-957.91073)"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#4e8eff;fill-opacity:1;stroke:#4e8eff;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-6-9"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="9.4380035"
+       sodipodi:ry="9.4380035"
+       d="m 309.45332,374.54984 a 9.4380035,9.4380035 0 1 1 -18.876,0 9.4380035,9.4380035 0 1 1 18.876,0 z"
+       transform="translate(25.091821,-919.93493)"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#4e8eff;fill-opacity:1;stroke:#4e8eff;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-15-1"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="9.4380035"
+       sodipodi:ry="9.4380035"
+       d="m 309.45332,374.54984 a 9.4380035,9.4380035 0 1 1 -18.876,0 9.4380035,9.4380035 0 1 1 18.876,0 z"
+       transform="translate(125.69584,-1006.298)"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#4e8eff;fill-opacity:1;stroke:#4e8eff;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-45-1"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="9.4380035"
+       sodipodi:ry="9.4380035"
+       d="m 309.45332,374.54984 a 9.4380035,9.4380035 0 1 1 -18.876,0 9.4380035,9.4380035 0 1 1 18.876,0 z"
+       transform="translate(145.82334,-1027.7144)"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#4e8eff;fill-opacity:1;stroke:#4e8eff;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-8-3"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="9.4380035"
+       sodipodi:ry="9.4380035"
+       d="m 309.45332,374.54984 a 9.4380035,9.4380035 0 1 1 -18.876,0 9.4380035,9.4380035 0 1 1 18.876,0 z"
+       transform="translate(29.652931,-1026.4511)"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#4e8eff;fill-opacity:1;stroke:#4e8eff;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-69-5"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="9.4380035"
+       sodipodi:ry="9.4380035"
+       d="m 309.45332,374.54984 a 9.4380035,9.4380035 0 1 1 -18.876,0 9.4380035,9.4380035 0 1 1 18.876,0 z"
+       transform="translate(154.00373,-925.19823)"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4700-1"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-241.20786,-1275.2887)"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><flowRegion
+         id="flowRegion4702-1"><rect
+           id="rect4704-5"
+           width="224.25386"
+           height="73.741135"
+           x="411.13208"
+           y="186.66145"
+           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4706-7"
+         style="font-size:20px;fill:#000000;fill-opacity:1">Vitesse</flowPara></flowRoot>    <flowRoot
+       transform="translate(173.77951,-884.26105)"
+       xml:space="preserve"
+       id="flowRoot4700-7-5"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#040000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><flowRegion
+         id="flowRegion4702-7-7"><rect
+           id="rect4704-7-2"
+           width="224.25386"
+           height="73.741135"
+           x="411.13208"
+           y="186.66145"
+           style="fill:#040000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4706-1-6"
+         style="font-size:20px;fill:#040000;fill-opacity:1">Position</flowPara></flowRoot>    <path
+       transform="matrix(-1,0,0,1,788.34867,-1168.1838)"
+       sodipodi:type="arc"
+       style="fill:#ff4e73;fill-opacity:1;stroke:#ff4e73;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-4-8-6"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="7.0710688"
+       sodipodi:ry="7.0710688"
+       d="m 307.08639,374.54984 a 7.0710688,7.0710688 0 1 1 -14.14214,0 7.0710688,7.0710688 0 1 1 14.14214,0 z"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="matrix(-1,0,0,1,754.45087,-1199.8194)"
+       sodipodi:type="arc"
+       style="fill:#ff4e73;fill-opacity:1;stroke:#ff4e73;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-4-9-6"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="7.0710688"
+       sodipodi:ry="7.0710688"
+       d="m 307.08639,374.54984 a 7.0710688,7.0710688 0 1 1 -14.14214,0 7.0710688,7.0710688 0 1 1 14.14214,0 z"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="matrix(-1,0,0,1,780.04617,-1188.7374)"
+       sodipodi:type="arc"
+       style="fill:#ff4e73;fill-opacity:1;stroke:#ff4e73;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-4-0-1"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="7.0710688"
+       sodipodi:ry="7.0710688"
+       d="m 307.08639,374.54984 a 7.0710688,7.0710688 0 1 1 -14.14214,0 7.0710688,7.0710688 0 1 1 14.14214,0 z"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="matrix(-1,0,0,1,742.76287,-1192.4314)"
+       sodipodi:type="arc"
+       style="fill:#ff4e73;fill-opacity:1;stroke:#ff4e73;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-4-5-7"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="7.0710688"
+       sodipodi:ry="7.0710688"
+       d="m 307.08639,374.54984 a 7.0710688,7.0710688 0 1 1 -14.14214,0 7.0710688,7.0710688 0 1 1 14.14214,0 z"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="matrix(-1,0,0,1,771.68207,-1174.2805)"
+       sodipodi:type="arc"
+       style="fill:#ff4e73;fill-opacity:1;stroke:#ff4e73;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-4-02-4"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="7.0710688"
+       sodipodi:ry="7.0710688"
+       d="m 307.08639,374.54984 a 7.0710688,7.0710688 0 1 1 -14.14214,0 7.0710688,7.0710688 0 1 1 14.14214,0 z"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="matrix(-1,0,0,1,719.35677,-1254.9988)"
+       sodipodi:type="arc"
+       style="fill:#ff4e73;fill-opacity:1;stroke:#ff4e73;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-4-50-6"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="7.0710688"
+       sodipodi:ry="7.0710688"
+       d="m 307.08639,374.54984 a 7.0710688,7.0710688 0 1 1 -14.14214,0 7.0710688,7.0710688 0 1 1 14.14214,0 z"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="matrix(-1,0,0,1,813.61927,-1215.9997)"
+       sodipodi:type="arc"
+       style="fill:#ff4e73;fill-opacity:1;stroke:#ff4e73;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-4-95-2"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="7.0710688"
+       sodipodi:ry="7.0710688"
+       d="m 307.08639,374.54984 a 7.0710688,7.0710688 0 1 1 -14.14214,0 7.0710688,7.0710688 0 1 1 14.14214,0 z"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="matrix(-1,0,0,1,815.80247,-1253.0281)"
+       sodipodi:type="arc"
+       style="fill:#ff4e73;fill-opacity:1;stroke:#ff4e73;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-4-6-7"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="7.0710688"
+       sodipodi:ry="7.0710688"
+       d="m 307.08639,374.54984 a 7.0710688,7.0710688 0 1 1 -14.14214,0 7.0710688,7.0710688 0 1 1 14.14214,0 z"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="matrix(-1,0,0,1,734.32567,-1153.2748)"
+       sodipodi:type="arc"
+       style="fill:#ff4e73;fill-opacity:1;stroke:#ff4e73;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-4-1-9"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="7.0710688"
+       sodipodi:ry="7.0710688"
+       d="m 307.08639,374.54984 a 7.0710688,7.0710688 0 1 1 -14.14214,0 7.0710688,7.0710688 0 1 1 14.14214,0 z"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="matrix(-1,0,0,1,717.97417,-1144.3253)"
+       sodipodi:type="arc"
+       style="fill:#ff4e73;fill-opacity:1;stroke:#ff4e73;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-4-15-8"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="7.0710688"
+       sodipodi:ry="7.0710688"
+       d="m 307.08639,374.54984 a 7.0710688,7.0710688 0 1 1 -14.14214,0 7.0710688,7.0710688 0 1 1 14.14214,0 z"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="matrix(-1,0,0,1,766.40387,-1222.328)"
+       sodipodi:type="arc"
+       style="fill:#ff4e73;fill-opacity:1;stroke:#ff4e73;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-4-3-7"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="7.0710688"
+       sodipodi:ry="7.0710688"
+       d="m 307.08639,374.54984 a 7.0710688,7.0710688 0 1 1 -14.14214,0 7.0710688,7.0710688 0 1 1 14.14214,0 z"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="matrix(-1,0,0,1,759.75367,-1267.4353)"
+       sodipodi:type="arc"
+       style="fill:#ff4e73;fill-opacity:1;stroke:#ff4e73;stroke-width:3;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-4-4-2"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="7.0710688"
+       sodipodi:ry="7.0710688"
+       d="m 307.08639,374.54984 a 7.0710688,7.0710688 0 1 1 -14.14214,0 7.0710688,7.0710688 0 1 1 14.14214,0 z"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+  </g>
+</svg>

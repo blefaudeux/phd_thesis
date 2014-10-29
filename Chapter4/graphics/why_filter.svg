@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="why_filter.svg"
+   inkscape:export-filename="/home/imara/SVN/amo/Thesis/Manuscript/Chapter4/graphics/why_filter.png"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3822"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="77.805594"
+     inkscape:cy="602.60177"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3769-5"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(-3.727296,-47.426101)"><flowRegion
+         id="flowRegion3771-7"><rect
+           id="rect3773-4"
+           width="173.57143"
+           height="22.142879"
+           x="65"
+           y="503.79074"
+           style="font-size:11px" /></flowRegion><flowPara
+         id="flowPara3775-5"
+         style="font-weight:bold">t-1</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3769-5-8"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(154.19323,-47.426101)"><flowRegion
+         id="flowRegion3771-7-4"><rect
+           id="rect3773-4-7"
+           width="173.57143"
+           height="22.142879"
+           x="65"
+           y="503.79074"
+           style="font-size:11px" /></flowRegion><flowPara
+         id="flowPara3775-5-6"
+         style="font-weight:bold">t</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3769-5-0"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(312.11372,-47.426101)"><flowRegion
+         id="flowRegion3771-7-5"><rect
+           id="rect3773-4-9"
+           width="173.57143"
+           height="22.142879"
+           x="65"
+           y="503.79074"
+           style="font-size:11px" /></flowRegion><flowPara
+         id="flowPara3775-5-7"
+         style="font-weight:bold">t+1</flowPara></flowRoot>    <rect
+       style="opacity:0.89344261;fill:#1a50a6;fill-opacity:0.52688168;stroke:#000000;stroke-width:0.65019965;stroke-opacity:1"
+       id="rect2985"
+       width="143.64566"
+       height="132.48279"
+       x="58.992859"
+       y="363.96719"
+       rx="10.082482"
+       ry="6.3303032"
+       transform="matrix(0.85243981,-0.52282538,0,1,0,0)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2985"
+       id="use3755"
+       transform="translate(157.92053,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3755"
+       id="use3757"
+       transform="translate(157.92049,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.86432624px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.878911,475.49424 c 0.137624,19.6617 75.341709,0.92848 74.650169,19.44734 0.23452,-19.14108 74.70193,0.14207 74.65016,-19.44734"
+       id="path3761"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3761"
+       id="use3763"
+       transform="translate(157.92053,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3769"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(13.042857,-10)"><flowRegion
+         id="flowRegion3771"><rect
+           id="rect3773"
+           width="173.57143"
+           height="22.142879"
+           x="65"
+           y="503.79074"
+           style="font-size:11px" /></flowRegion><flowPara
+         id="flowPara3775">Optimisation (SVD)</flowPara></flowRoot>    <use
+       x="0"
+       y="0"
+       xlink:href="#flowRoot3769"
+       id="use3777"
+       transform="translate(157.92053,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3761"
+       id="use3781"
+       transform="translate(74.285714,45)"
+       width="744.09448"
+       height="1052.3622" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3785"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(24.603365,-8)"><flowRegion
+         id="flowRegion3787"><rect
+           id="rect3789"
+           width="113.57143"
+           height="36.42857"
+           x="155.71428"
+           y="549.50507"
+           style="font-size:11px" /></flowRegion><flowPara
+         id="flowPara3791">Filtrage</flowPara></flowRoot>    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2985"
+       id="use3805"
+       transform="translate(126,-78)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3755"
+       id="use3807"
+       transform="translate(126,-78)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3757"
+       id="use3809"
+       transform="translate(126,-78)"
+       width="744.09448"
+       height="1052.3622" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 282.14286,150.93362 327.14286,0"
+       id="path3813"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3785-4"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       transform="translate(432.85123,-390.04008)"><flowRegion
+         id="flowRegion3787-7"><rect
+           id="rect3789-0"
+           width="113.57143"
+           height="36.42857"
+           x="155.71428"
+           y="549.50507" /></flowRegion><flowPara
+         id="flowPara3791-0"
+         style="font-size:11px">Temps</flowPara></flowRoot>  </g>
+</svg>

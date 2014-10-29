@@ -1,0 +1,52 @@
+\section{Introduction}
+L'algorithme dit \textit{KLT} ( \og Kanade and Lucas Tracker\fg{}) a comme son nom l'indique initialement été proposé par Lucas et Kanade, en 1981 (\cite{Lucas1981a}). Il s'agit d'une descente de gradient, l'algorithme proposant de trouver par optimisation la position minimisant les erreurs entre deux voisinages, correspondant par exemple à deux instants de prise de vue différents. \\
+Cet algorithme est détaillé dans le point suivant, mais on pourra rappeler ici qu'il s'agit du mécanisme de suivi de point par optimisation le plus utilisé dans la littérature.
+
+\section{Détails de l'algorithme:\\}\label{sec:ch3_KLT}
+On reprend ici l'algorithme de suivi de points tel que proposé par Bouguet (\cite{Bouguet2001a}), c'est-à-dire comprenant une implémentation pyramidale généralisant les propositions initiales de Lucas et Kanade. On cherche à retrouver la localisation du point $u$ originellement sur l'image $I$, que l'on note alors $v$ sur l'image $J$. On note ensuite $\left\lbrace I^L \right\rbrace_{L = 0, ..., L_m}$ les pyramides d'images, autrement dit les réductions à l'échelle $\frac{1}{2^L}$ de l'image originale. Un noyau gaussien approximé en valeurs discrètes est le plus souvent utilisé pour la mise à l'échelle lors de la construction des pyramides.\\
+
+On note $d$ le déplacement entre $u$ et $v$, que l'on va chercher à déterminer via l'algorithme. La boucle \ref{eq:ch3_KLT_iteration} est exécutée à chaque étage de la pyramide, en
+commençant par l'image la plus petite de la pyramide. Le vecteur de déplacement estimé par l'algorithme, $\nu$, peut être initialisé à 0, ou bien être repris d'un calcul précédent (en supposant une vélocité approximativement constante). On note dans les équations suivantes $I_x(x,y)$ la dérivée spatiale selon l'axe $x$, qui peut être obtenue par divers opérateurs (par exemple par différence finie centrée). On note $g^L$ le point de départ de l'optimisation au sein de l'étage $L$ de la pyramide courante, qui est donc par exemple à 0 pour la première, mais qui tient ensuite compte du résultat de la pyramide précédente. \\
+
+Au sein d'une image (par exemple un étage de la pyramide d'images), les itérations permettant à l'algorithme de converger vers la nouvelle position optimale sont finalement décrites par les étapes suivantes, les positions et déplacements prenant des valeurs continues (interpolées si besoin) :
+
+\begin{itemize} \label{sec:ch3_KLT_algo}
+	\item{\emph{Position initiale à ce niveau:}\\}
+	$u^L = u/{2^L}$ \\
+	
+	\item \emph{Calcul du gradient:\\}
+	$p_x$ et $p_y$ représentent les coordonnées dans l'image du point $u^L$. $\omega_x$ et $\omega_y$ représentent la fenêtre de recherche de l'algorithme, en nombre de pixels.
+	
+	\begin{equation}
+	G = \sum\limits_{x = p_x - \omega_x}^{p_x + \omega_x} \sum\limits_{y = p_y - \omega_y}^{p_y + \omega_y} 
+	\left[ 
+	\begin{array}{cc}
+	{I_x}^2 (x,y) & I_x (x,y) \cdot I_y (x,y) \\
+	I_x (x,y) \cdot I_y (x,y) & {I_y}^2 (x,y) \\
+	\end{array}
+	\right]
+	\end{equation}
+	
+	\item{\emph{Itérations:}\\}
+	\begin{align} \label{eq:ch3_KLT_iteration}
+		\delta I^L(x,y) &= I^L(x,y) - J^L(x + {g_x}^L + {\nu_x}^{k-1}, y + {g_y}^L + {\nu_y}^{k-1}) \\
+		b_k &= \sum\limits_{x = p_x - \omega_x}^{p_x + \omega_x} \sum\limits_{y = p_y - \omega_y}^{p_y + \omega_y} 
+		\left[ 
+		\begin{array}{c}
+			\delta I_k (x,y) \cdot I_x (x,y) \\
+			\delta I_k (x,y) \cdot I_y (x,y) \\
+		\end{array}
+		\right] \\
+		\eta_k &= G^{-1} b_k \\
+		\nu^k &= \nu^{k-1} + \eta_k
+	\end{align}
+\end{itemize}
+
+Ce processus est ensuite répété en \og remontant\fg{} la pyramide d'images, de la plus petite à l'image originale. Le déplacement $d^L$ retenu pour l'étage $L$ de la pyramide correspond à la dernière itération de l'équation \ref{eq:ch3_KLT_iteration}. Le déplacement global tient compte de la mise à l'échelle qui avait prévalu pour cet étage de pyramide, de sorte que les contributions de chacune des optimisations dans le vecteur de déplacement final ne sont pas équivalentes. Le point de départ de l'optimisation suivante, $g^{L-1}$, est donc modifié par le rapport d'échelle entre deux pyramides, à savoir 2 dans la proposition initiale de Bouguet. Cette approche par échelles successives permet de respecter l'hypothèse initiale de Lucas et Kanade d'un faible déplacement pour chacun des étages de la pyramide d'images, quand bien même le déplacement final ne respecte pas cette hypothèse. De grands déplacements d'une image sur l'autre peuvent donc être suivis, en fonction du nombre d'étages de la pyramide et du voisinage $\omega$ considéré.
+
+\begin{align} \label{eq:ch3_KLT_pyramid}
+	d^L =& \nu^K \\
+	g^{L-1} =& 2 \cdot (g^L + d^L)
+\end{align}
+
+On pourra remarquer que cet algorithme suppose que l'illumination de la scène est constante, ou tout du moins qu'elle varie lentement relativement à la cadence d'acquisition. Lucas et Kanade proposent dans leur article fondateur de modéliser la différence d'illumination par une fonction affine, dont les paramètres (liés au contraste et à la luminosité) sont eux-mêmes sujets à une optimisation.

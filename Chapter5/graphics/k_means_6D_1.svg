@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="k_means_6D_1.svg"
+   inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_1.png"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="144.31423"
+     inkscape:cy="356.8854"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#4e8eff;stroke-width:6;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="39.39595"
+       sodipodi:ry="39.39595"
+       d="m 339.41127,374.54984 a 39.39595,39.39595 0 1 1 -78.7919,0 39.39595,39.39595 0 1 1 78.7919,0 z"
+       transform="translate(126,-34)"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_1.png"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <path
+       style="fill:none;stroke:#4e8eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none"
+       d="m 425.00515,381.96608 0.82075,184.1003 -83.5737,79.67057 11.08931,96.26185"
+       id="path3754"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_1.png"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <path
+       style="fill:none;stroke:#4e8eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none"
+       d="m 297.84699,459.62615 66.01015,-4.12111 61.42857,-17.85714 18.10226,46.72443 -89.17338,23.24222"
+       id="path3758"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_1.png"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <path
+       transform="matrix(-1,0,0,1,815.62913,-61.677912)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff4e73;stroke-width:6;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2984-4"
+       sodipodi:cx="300.01532"
+       sodipodi:cy="374.54984"
+       sodipodi:rx="39.39595"
+       sodipodi:ry="39.39595"
+       d="m 339.41127,374.54984 a 39.39595,39.39595 0 1 1 -78.7919,0 39.39595,39.39595 0 1 1 78.7919,0 z"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_1.png"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <path
+       style="fill:none;stroke:#ff4e73;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none"
+       d="M 497.73565,716.96263 540.96916,616.3361 515.61382,540.15624"
+       id="path3756-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_1.png"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <path
+       style="fill:none;stroke:#ff4e73;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none"
+       d="m 643.78214,431.94824 -66.01015,-4.12111 -61.42857,-17.85714 -18.10226,46.72443 89.17338,23.24222"
+       id="path3758-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_1.png"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 8.0812204,824.06771 773.77685,644.26055"
+       id="path3787"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_1.png"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <path
+       style="fill:none;stroke:#ff4e73;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none"
+       d="m 516.62398,354.28817 -0.82075,184.1003 83.5737,79.67057 -11.08931,96.26189"
+       id="path3754-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_1.png"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <path
+       style="fill:none;stroke:#4e8eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:6;stroke-opacity:1;stroke-dasharray:none"
+       d="M 443.89348,744.64058 400.65997,644.01401 426.01531,567.83415"
+       id="path3756"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/imara/Documents/Presentations/Common graphics/kmeans/k_means_6D_1.png"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+  </g>
+</svg>
